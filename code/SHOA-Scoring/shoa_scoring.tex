@@ -4,7 +4,7 @@
 \usepackage{amsmath, amssymb, graphicx, hyperref}
 \usepackage{geometry}
 \geometry{a4paper, margin=1in}
-\title{SHOA-Scoring: A Business Sustainability Assessment Model Based on Principles of Quantum Emergence}
+\title{SHOA-Scoring: A Business Sustainability Assessment Model Based on Principles of Quantum Emergence with Formal Validation Criteria}
 \author{Konstantin Fedotov}
 \date{\today}
 
@@ -13,11 +13,11 @@
 \maketitle
 
 \begin{abstract}
-We present SHOA-Scoring, a model for evaluating business resilience based on the principles of quantum emergence and the Spiked Voting protocol. Unlike classical scoring models (FICO, Moody's), SHOA-Scoring assesses the dynamic capacity for self-restoration after crisis. The model uses 10 independent sensors and calculates the SHOA Index, which reflects the system's ability to return to a stable state. We validate the model on synthetic scenarios and demonstrate 94\% accuracy in predicting cascading failures.
+We present SHOA-Scoring, a model for evaluating business resilience based on the principles of quantum emergence and the Spiked Voting protocol. Unlike classical scoring models (FICO, Moody's), SHOA-Scoring assesses the dynamic capacity for self-restoration after crisis. The model uses 10 independent sensors and calculates the SHOA Index. We provide formal, testable criteria for experimental verification, including tests for predictive accuracy, superiority over classical metrics, recovery sensitivity, and stability. The model is validated on synthetic scenarios and demonstrates 94\% accuracy in predicting cascading failures.
 \end{abstract}
 
 \section{Introduction}
-Classical risk metrics (Sharpe ratio, VaR) are static and lagging. They cannot predict a complex system's critical transition into cascading failure. SHOA-Scoring shifts the focus from static stability to dynamic self-healing capacity.
+Classical risk metrics (Sharpe ratio, VaR) are static and lagging. They cannot predict a complex system's critical transition into cascading failure. SHOA-Scoring shifts the focus from static stability to dynamic self-healing capacity. This work provides the formal experimental criteria for validating the model's predictive power.
 
 \section{Model}
 \subsection{Sensors and Weights}
@@ -39,10 +39,44 @@ P =
 \end{equation}
 The final SHOA Index is $I_{\text{SHOA}} = \max(0, \min(1, S_{\text{base}} + P))$.
 
+\section{Formal Validation Criteria}
+
+\subsection{Predictive Accuracy for Default (Criterion I)}
+\begin{itemize}
+    \item \textbf{Definition:} The SHOA Index must predict bankruptcy or credit default within 12 months with high accuracy.
+    \item \textbf{What to measure:} Compute the Index quarterly for 100+ companies and compare with actual default events.
+    \item \textbf{Target:} Sensitivity $> 90\%$, specificity $> 85\%$, and Area Under ROC Curve (AUC) $> 0.9$.
+    \item \textbf{Instrumentation:} Financial databases (Bloomberg, Refinitiv) combined with the SHOA-Scoring API.
+\end{itemize}
+
+\subsection{Superiority Over Classical Metrics (Criterion II)}
+\begin{itemize}
+    \item \textbf{Definition:} SHOA-Scoring must outperform the Altman Z-score and credit ratings in default prediction.
+    \item \textbf{What to measure:} The AUC for 12-month default prediction for SHOA-Scoring vs. Altman Z-score.
+    \item \textbf{Target:} AUC(SHOA-Scoring) $> 0.9$, while AUC(Altman Z) $< 0.7$.
+    \item \textbf{Significance:} This proves that dynamic self-healing assessment is superior to static ratio analysis.
+\end{itemize}
+
+\subsection{Recovery Sensitivity (Criterion III)}
+\begin{itemize}
+    \item \textbf{Definition:} The SHOA Index must rise by at least 0.2 within 6 months after a successful restructuring or capital injection.
+    \item \textbf{What to measure:} The Index trajectory for 20+ companies undergoing Chapter 11 restructuring or similar recovery events.
+    \item \textbf{Target:} Mean $\Delta I_{\text{SHOA}} > 0.2$ within 6 months post-restructuring.
+    \item \textbf{Significance:} This proves that the Index measures genuine self-healing, not just the absence of distress.
+\end{itemize}
+
+\subsection{Stability and Robustness (Criterion IV)}
+\begin{itemize}
+    \item \textbf{Definition:} The Index must be stable during normal operations and responsive during crises.
+    \item \textbf{What to measure:} Standard deviation of $I_{\text{SHOA}}$ in non-crisis periods vs. the drop magnitude during a market crash.
+    \item \textbf{Target:} Crisis drop $> 3\sigma$ of calm-period fluctuations.
+    \item \textbf{Significance:} This ensures the Index is a meaningful signal, not random noise.
+\end{itemize}
+
 \section{Validation}
 We tested the model on synthetic scenarios representing healthy, vulnerable, and recovering companies. The SHOA Index correctly identified the risk of cascading failure in 94\% of cases, compared to 60\% for the Altman Z-score.
 
 \section{Conclusion}
-SHOA-Scoring provides a dynamic, emergence-based assessment of business resilience. It is ready for pilot implementation in banking and investment sectors.
+SHOA-Scoring provides a dynamic, emergence-based assessment of business resilience with formally verifiable criteria. It is ready for pilot implementation in banking and investment sectors.
 
 \end{document}
