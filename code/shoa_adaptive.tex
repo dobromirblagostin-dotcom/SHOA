@@ -4,7 +4,7 @@
 \usepackage{amsmath, amssymb, graphicx, hyperref}
 \usepackage{geometry}
 \geometry{a4paper, margin=1in}
-\title{SHOA-Adaptive: Programmable Geopolymer Self-Assembly via GRAPE-Optimized Acoustic Resonance}
+\title{SHOA-Adaptive: Programmable Geopolymer Self-Assembly via GRAPE-Optimized Acoustic Resonance with Formal Validation Criteria}
 \author{Konstantin Fedotov}
 \date{\today}
 
@@ -13,11 +13,11 @@
 \maketitle
 
 \begin{abstract}
-We present SHOA-Adaptive, a new class of materials -- geopolymers capable of controlled self-assembly under the influence of a quantum-resonance impulse. The key innovation is the introduction of SHOA centers (superparamagnetic nanoparticles) into a mineral matrix, functioning as quantum sensors and actuators governed by the Spiked Voting protocol. We propose a specific, reproducible experimental protocol and introduce a new term in the Hamiltonian, $H_{\text{acoustic}}(t)$, describing a GRAPE-optimized ultrasonic pulse that modulates the energy gap of each center. This technology enables the formation of objects with micron-level precision without mechanical processing, opening a new era in construction, restoration, and complex architectural forms.
+We present SHOA-Adaptive, a new class of materials -- geopolymers capable of controlled self-assembly under a GRAPE-optimized ultrasonic pulse. The key innovation is the introduction of SHOA centers (superparamagnetic nanoparticles) into a mineral matrix, functioning as quantum sensors and actuators governed by the Spiked Voting protocol. We provide formal, testable criteria for experimental verification, including tests for assembly precision, energy efficiency, cycle stability, and the distinction between quantum-controlled assembly and conventional ultrasonic compaction.
 \end{abstract}
 
 \section{Introduction}
-The SHOA project has demonstrated self-healing (Classic), learning (Neuro), and neural integration (NeuroSHOA). SHOA-Adaptive introduces programmable matter: geopolymers that self-assemble under quantum control. We move from healing damaged materials to building new structures with embedded intelligence.
+The SHOA project has demonstrated self-healing (Classic), learning (Neuro), and neural integration (NeuroSHOA). SHOA-Adaptive introduces programmable matter: geopolymers that self-assemble under quantum control. This work provides the formal experimental criteria needed to verify that the observed assembly is genuinely controlled by the GRAPE-optimized pulse, and not by conventional acoustic effects.
 
 \section{Model}
 \subsection{Full Hamiltonian}
@@ -30,6 +30,40 @@ where the key extension is $\mathcal{H}_{\text{acoustic}}(t) = \sum_i \Omega_i(t
 \subsection{GRAPE Optimization}
 The pulse shape $\Omega_i(t)$ is optimized using gradient ascent to maximize the fidelity of the target geometry. The optimization loop runs over 5000 iterations with convergence tolerance $10^{-6}$.
 
+\section{Formal Validation Criteria}
+
+\subsection{Assembly Precision (Criterion I)}
+\begin{itemize}
+    \item \textbf{Definition:} The final shape of the geopolymer block must match the target shape with a deviation of less than 5\% of the characteristic dimension.
+    \item \textbf{What to measure:} The root-mean-square deviation (RMSD) between the scanned surface profile of the cured block and the digital reference model.
+    \item \textbf{Target:} RMSD $< 5\%$ of the block's linear dimension for a GRAPE-optimized pulse; RMSD $> 15\%$ for an unoptimized monochromatic pulse of the same energy.
+    \item \textbf{Instrumentation:} Laser profilometry or structured-light 3D scanning.
+\end{itemize}
+
+\subsection{Energy Efficiency (Criterion II)}
+\begin{itemize}
+    \item \textbf{Definition:} The GRAPE-optimized pulse must achieve the target shape using less than 50\% of the acoustic energy required by a conventional ultrasonic compaction.
+    \item \textbf{What to measure:} The total acoustic energy delivered to the sample during the assembly process.
+    \item \textbf{Target:} $E_{\text{GRAPE}} < 0.5 \times E_{\text{conventional}}$ for the same final RMSD.
+    \item \textbf{Significance:} This criterion proves that the GRAPE optimization provides genuine efficiency gains through resonance, not just brute-force compaction.
+\end{itemize}
+
+\subsection{Cycle Stability and Learning (Criterion III)}
+\begin{itemize}
+    \item \textbf{Definition:} The assembly precision must improve over repeated cycles as the material ``learns'' its optimal response.
+    \item \textbf{What to measure:} RMSD over 10 consecutive assembly-disassembly cycles.
+    \item \textbf{Target:} RMSD must decrease monotonically and saturate, with a learning rate $\lambda > 0.01$ when fitted to the memory law $K_{\text{eff}}(N) = K_0 (1 - \beta e^{-\lambda N})$.
+    \item \textbf{Control:} A sample without SHOA centers must show no significant improvement over cycles.
+\end{itemize}
+
+\subsection{Distinguishability from Conventional Compaction (Criterion IV)}
+\begin{itemize}
+    \item \textbf{Definition:} The GRAPE-optimized assembly must produce a different final microstructure than conventional ultrasonic compaction.
+    \item \textbf{What to measure:} Scanning electron microscopy (SEM) images of the internal microstructure: porosity, grain alignment, and nanoparticle distribution.
+    \item \textbf{Target:} The GRAPE sample must show ordered alignment of nanoparticles along the acoustic axis, while the conventional sample shows random distribution.
+    \item \textbf{Significance:} This criterion proves that SHOA-Adaptive is not just a rebranding of existing techniques, but a fundamentally new assembly mechanism.
+\end{itemize}
+
 \section{Experimental Protocol}
 We propose a concrete, reproducible experiment:
 \begin{enumerate}
@@ -40,6 +74,6 @@ We propose a concrete, reproducible experiment:
 \end{enumerate}
 
 \section{Conclusion}
-SHOA-Adaptive represents an engineering principle -- quantum-resonance-controlled mineral self-assembly. The technology is ready for laboratory verification and holds potential for applications in construction, restoration, and beyond.
+SHOA-Adaptive provides a formally verifiable platform for programmable matter. The four criteria presented here transform the concept of quantum-controlled geopolymer assembly into a testable engineering discipline.
 
 \end{document}
