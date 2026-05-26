@@ -4,7 +4,7 @@
 \usepackage{amsmath, amssymb, graphicx, hyperref}
 \usepackage{geometry}
 \geometry{a4paper, margin=1in}
-\title{SHOA-Validate: Calibration and Validation of the SHOA Model on Historical Data}
+\title{SHOA-Validate: Calibration, Validation, and Falsification Protocol for the SHOA Model}
 \author{Konstantin Fedotov}
 \date{\today}
 
@@ -13,19 +13,60 @@
 \maketitle
 
 \begin{abstract}
-We present SHOA-Validate, a calibration and validation framework for the SHOA family of models. The framework tests the predictive power of SHOA-Scoring and SHOA-Hedge on historical data from 100+ companies. We demonstrate that the SHOA Index predicts defaults with >90\% accuracy, outperforming the Altman Z-score. The calibration protocol includes parameter optimization and sensitivity analysis.
+We present SHOA-Validate, a comprehensive calibration and validation framework for the SHOA family of models. This protocol provides experimenters with reproducible criteria for verifying or falsifying the core hypotheses of quantum self-healing, learning, and emergent resilience. The framework includes four formal criteria: a Fidelity threshold for restoration, an integral resilience index, a formalized memory law, and a coherent activation criterion. We provide precise definitions, measurement procedures, target values, and the necessary instrumentation for each.
 \end{abstract}
 
 \section{Introduction}
-The SHOA models (Classic, Neuro, Scoring, Hedge) require rigorous validation on real-world data. SHOA-Validate provides a standardized calibration procedure and benchmarks the models against historical events.
+The SHOA models (Classic, Neuro, Scoring, Hedge, etc.) require rigorous experimental validation to transition from theoretical constructs to accepted physical laws. SHOA-Validate establishes a standardized, reproducible protocol that enables independent laboratories to test and potentially falsify the predictions of the SHOA framework.
 
-\section{Methodology}
-We collected financial data for 100+ companies from 2000 to 2025. The SHOA Index was computed quarterly. Defaults were defined as bankruptcy or credit event. We optimized sensor weights and thresholds using a grid search with 5-fold cross-validation.
+\section{Mathematical Model (Synopsis)}
+The core dynamics of a SHOA ensemble are governed by the Lindblad master equation:
+\begin{equation}
+\frac{d\rho}{dt} = -\frac{i}{\hbar} [\mathcal{H}, \rho] + \sum_i \Gamma \mathcal{D}[\sigma_-^{(i)}]\rho,
+\end{equation}
+where $\mathcal{D}[L]\rho = L \rho L^\dagger - \frac{1}{2} \{ L^\dagger L, \rho \}$ is the dissipator. The Hamiltonian includes local terms, collective interactions, and a GRAPE-optimized control pulse:
+\begin{equation}
+\mathcal{H} = \sum_i \frac{\Delta_i}{2} \sigma_z^{(i)} + \sum_{i<j} J_{ij} \vec{\sigma}^{(i)} \cdot \vec{\sigma}^{(j)} + \sum_i \Omega_i(t) \sigma_x^{(i)}.
+\end{equation}
+This model provides the theoretical foundation for the following validation criteria.
 
-\section{Results}
-The calibrated SHOA Index achieved 94\% accuracy in predicting defaults within 12 months, compared to 60\% for the Altman Z-score. Sensitivity analysis showed that the emergent penalty $P$ is the most critical parameter.
+\section{Criteria and Metrics}
+
+\subsection{Fidelity Restoration Threshold (Criterion I)}
+\begin{itemize}
+    \item \textbf{Definition:} $\langle \psi_{\text{target}} | \rho(t) | \psi_{\text{target}} \rangle > 0.9$
+    \item \textbf{What to measure:} The overlap of the ensemble's density matrix with the ideal state after a damage event.
+    \item \textbf{Target value:} $> 0.9$.
+    \item \textbf{Instrumentation:} Verified via Quantum State Tomography (QST) on platforms with individual readout (NV centers, single quantum dots).
+\end{itemize}
+
+\subsection{Integral Resilience Index (Criterion II)}
+\begin{itemize}
+    \item \textbf{Definition:} $\mathcal{S}_{\text{neuro}} = \frac{1}{T} \int_0^T \left(1 - \frac{\| \rho(t) - \rho_{\text{ideal}} \|}{\| \rho_{\text{ideal}} \|} \right) dt$
+    \item \textbf{What to measure:} The average proximity of the ensemble's state to the ideal state over the entire recovery interval.
+    \item \textbf{Hypothesis test:} A system with memory (SHOA-Neuro) must show a monotonic increase in $\mathcal{S}_{\text{neuro}}$ from cycle to cycle, in contrast to a static system without Spiked Voting.
+\end{itemize}
+
+\subsection{Formalized Memory Law (Criterion III)}
+\begin{itemize}
+    \item \textbf{Definition:} $K_{\text{eff}}(N) = K_0 \cdot \left(1 - \beta e^{-\lambda N_{\text{recovery}}} \right)$
+    \item \textbf{What to measure:} The effective stiffness (or activation threshold) as a function of the number of previous recovery cycles $N_{\text{recovery}}$.
+    \item \textbf{Extractable parameters:}
+        \begin{itemize}
+            \item $\beta$ -- learning amplitude (fraction of the maximum threshold change),
+            \item $\lambda$ -- learning rate (saturation constant).
+        \end{itemize}
+    \item \textbf{Prediction:} For a system with Spiked Voting, $\lambda > 0$; for a control system without it, $\lambda \to 0$.
+\end{itemize}
+
+\subsection{Coherent Activation Criterion (Criterion IV)}
+\begin{itemize}
+    \item \textbf{Definition:} $M_{\text{spin}} > M_{\text{crit}}$ and simultaneously $f_{\text{cure}} > \gamma T$
+    \item \textbf{What to measure:} The total spin polarization $M_{\text{spin}}$ of the ensemble and the power of the control pulse $f_{\text{cure}}$.
+    \item \textbf{Significance:} Recovery is triggered not merely by the presence of energy, but only by a coherent, ordered (spin-polarized) stimulus. This criterion excludes trivial thermal annealing as the mechanism.
+\end{itemize}
 
 \section{Conclusion}
-SHOA-Validate confirms the robustness and predictive power of the SHOA framework, readying it for real-world deployment.
+SHOA-Validate provides experimenters with a reproducible protocol for the falsification or confirmation of the SHOA model. The four criteria outlined here transform the theoretical framework into a testable scientific theory, ready for independent laboratory verification.
 
 \end{document}
