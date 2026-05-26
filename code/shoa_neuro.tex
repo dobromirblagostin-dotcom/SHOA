@@ -4,7 +4,7 @@
 \usepackage{amsmath, amssymb, graphicx, hyperref}
 \usepackage{geometry}
 \geometry{a4paper, margin=1in}
-\title{Spintronic Learning in Hierarchical Quantum Dot Ensembles: The SHOA-Neuro Model}
+\title{Spintronic Learning in Hierarchical Quantum Dot Ensembles: The SHOA-Neuro Model with Formal Validation Criteria}
 \author{Konstantin Fedotov}
 \date{\today}
 
@@ -13,11 +13,11 @@
 \maketitle
 
 \begin{abstract}
-We present SHOA-Neuro, a spintronic learning model for hierarchical quantum dot ensembles that introduces adaptive threshold reduction via accumulated spin memory. Building on SHOA-Classic, we demonstrate that the effective voting threshold K_eff decreases from 7 to 2 over multiple recovery cycles, mimicking long-term potentiation (LTP) in biological neurons. The model is validated through 200-cycle simulations, showing emergent learning behavior and a 40% reduction in recovery time.
+We present SHOA-Neuro, a spintronic learning model for hierarchical quantum dot ensembles that introduces adaptive threshold reduction via accumulated spin memory. Building on SHOA-Classic, we demonstrate that the effective voting threshold $K_{\text{eff}}$ decreases from 7 to 2 over multiple recovery cycles, mimicking long-term potentiation (LTP) in biological neurons. We provide a complete set of formal, testable criteria for experimentally verifying this emergent learning behavior, including the Memory Law criterion, the LTP saturation curve, and the Coherent Activation condition.
 \end{abstract}
 
 \section{Introduction}
-The SHOA-Classic model established that collective voting in quantum dot clusters enables room-temperature self-healing. However, the threshold K was fixed. SHOA-Neuro introduces spin memory and adaptive thresholds, enabling the material to "learn" from each recovery cycle.
+The SHOA-Classic model established that collective voting in quantum dot clusters enables room-temperature self-healing. However, the threshold $K$ was fixed. SHOA-Neuro introduces spin memory and adaptive thresholds, enabling the material to ``learn'' from each recovery cycle. This work provides the formal experimental criteria necessary to distinguish this quantum learning from trivial thermal relaxation.
 
 \section{Model}
 \subsection{Hamiltonian}
@@ -33,17 +33,49 @@ where $\Delta_i$ is local detuning, $J_{ij}$ is spin-spin interaction, and $\Ome
 \end{equation}
 where $\mathcal{D}[L]\rho = L \rho L^\dagger - \frac{1}{2} \{ L^\dagger L, \rho \}$.
 
-\subsection{Adaptive Threshold}
-The effective memory of the system is:
+\subsection{Adaptive Memory}
+The effective memory of the system, which lowers the voting threshold over cycles, is:
 \begin{equation}
-K_{\text{eff}}(t) = K_0 \cdot \left(1 - \beta e^{-\lambda N_{\text{recovery}}} \right)
+K_{\text{eff}}(N) = K_0 \cdot \left(1 - \beta e^{-\lambda N_{\text{recovery}}} \right)
 \end{equation}
-where $N_{\text{recovery}}$ is the number of previous recovery cycles, $\beta, \lambda$ are memory parameters.
+where $N_{\text{recovery}}$ is the number of previous recovery cycles, $\beta$ is the learning amplitude, and $\lambda$ is the learning rate.
 
-\section{Results}
-We simulated 200 recovery cycles with M=10, K0=7. The mean effective threshold decreased from 7.0 to 2.1, demonstrating LTP-like behavior. The recovery time decreased by 40% by cycle 200.
+\section{Formal Validation Criteria}
+We propose the following criteria for independent experimental verification of the SHOA-Neuro model.
+
+\subsection{Long-Term Potentiation (LTP) of the Voting Threshold (Criterion I)}
+\begin{itemize}
+    \item \textbf{Definition:} $K_{\text{eff}}(N)$ must decrease monotonically and saturate at $K_{\text{eff}}(\infty) = K_0 \cdot (1 - \beta)$.
+    \item \textbf{What to measure:} The effective voting threshold $K_{\text{eff}}$ by observing the number of successful restorations out of $M=10$ attempts, plotted against the cycle number $N$.
+    \item \textbf{Target:} After 200 cycles, $K_{\text{eff}}$ must drop from $7.0 \pm 0.5$ to $2.1 \pm 0.5$, with a learning rate $\lambda > 0.01$.
+    \item \textbf{Control:} A sample without CISS-active spin memory should show no significant threshold reduction ($\lambda \approx 0$).
+    \item \textbf{Instrumentation:} Repeated damage-restoration cycling with optical detection of successful restorations.
+\end{itemize}
+
+\subsection{Spin Memory Accumulation and the CISS Effect (Criterion II)}
+\begin{itemize}
+    \item \textbf{Definition:} The ensemble spin polarization $M_{\text{spin}}$ must grow cumulatively with each successful restoration and correlate with $K_{\text{eff}}$.
+    \item \textbf{What to measure:} The total spin polarization via Kerr rotation or polarized photoluminescence after each cycle.
+    \item \textbf{Target:} $M_{\text{spin}}(N)$ must show a saturating exponential growth, and the correlation coefficient between $M_{\text{spin}}$ and $K_{\text{eff}}$ must be $r > 0.9$.
+    \item \textbf{Significance:} This proves the CISS-mediated spin accumulation is the physical mechanism of learning.
+\end{itemize}
+
+\subsection{Learning Rate Universality (Criterion III)}
+\begin{itemize}
+    \item \textbf{Definition:} The learning rate $\lambda$ should be independent of the cluster size $M$ and the initial threshold $K_0$, depending only on the CISS spin polarization efficiency and temperature.
+    \item \textbf{What to measure:} Extract $\lambda$ from experiments with $M=7$ and $M=15$ clusters.
+    \item \textbf{Target:} $\lambda(M=7) \approx \lambda(M=10) \approx \lambda(M=15)$ within statistical error.
+\end{itemize}
+
+\subsection{Coherent Activation Condition (Criterion IV)}
+\begin{itemize}
+    \item \textbf{Definition:} Recovery is triggered only when both $M_{\text{spin}} > M_{\text{crit}}$ and $f_{\text{cure}} > \gamma T$.
+    \item \textbf{What to measure:} The control pulse power $f_{\text{cure}}$ at the moment of recovery and the simultaneous spin polarization.
+    \item \textbf{Control:} A thermal annealing experiment without spin-polarized pulses must not produce the same adaptive threshold reduction.
+    \item \textbf{Instrumentation:} A combination of electrical pulse characterization and time-resolved Kerr microscopy.
+\end{itemize}
 
 \section{Conclusion}
-SHOA-Neuro demonstrates that quantum dot ensembles can exhibit learning through spin memory. This opens the path to neuromorphic materials and self-optimizing devices.
+SHOA-Neuro provides a testable model of quantum learning with precise, falsifiable predictions. The formal criteria establish a clear experimental protocol for verifying emergent neuromorphic behavior in quantum dot ensembles.
 
 \end{document}
