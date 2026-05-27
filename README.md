@@ -62,6 +62,20 @@ ORCID: [0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
 }
 ```
 
+```markdown
+## SHOA-Praktik Series (Engineering Modules)
+
+The practical implementation of the SHOA architecture across seven domains.
+
+| # | Module | Title | DOI |
+|---|--------|-------|-----|
+| 1 | Classic Kit | A Self-Healing Material System Based on Grape Pulse Activation | [10.5281/zenodo.20411863](https://doi.org/10.5281/zenodo.20411863) |
+| 2 | GRAPE Framework | A Universal Resilience Architecture for Computing Systems | [10.5281/zenodo.20412353](https://doi.org/10.5281/zenodo.20412353) |
+| 3 | Scoring Tool | A Business Resilience Assessment and Recovery System Based on the SHOA Index | [10.5281/zenodo.20412816](https://doi.org/10.5281/zenodo.20412816) |
+| 4 | Hedge Module | A Self-Healing Financial System Based on the SHOA Grape Pulse | [10.5281/zenodo.20413138](https://doi.org/10.5281/zenodo.20413138) |
+| 5 | Neuro Chip DevKit | A Neuromorphic Hardware Platform with Intrinsic Fault Learning | [10.5281/zenodo.20413677](https://doi.org/10.5281/zenodo.20413677) |
+| 6 | Neuro Interface | A Quantum-Grape Pulse Platform for Neural Activity Restoration | [10.5281/zenodo.20414368](https://doi.org/10.5281/zenodo.20414368) |
+| 7 | Universal Connector | A Unified Ecosystem for Cross-Domain Self-Healing Systems | [10.5281/zenodo.20414750](https://doi.org/10.5281/zenodo.20414750) |
 License
 
 Code in this repository: MIT License.
