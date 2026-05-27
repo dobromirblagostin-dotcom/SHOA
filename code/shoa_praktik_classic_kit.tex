@@ -1,0 +1,82 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb, graphicx, hyperref}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\title{SHOA-Praktik: Classic Kit -- A Self-Healing Material System Based on Grape Pulse Activation}
+\author{Konstantin Fedotov}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+We present the SHOA-Praktik Classic Kit, the first practical implementation of the SHOA-Classic theoretical model (DOI: 10.5281/zenodo.19625147). The kit provides a complete, self-contained system for creating and testing self-healing materials using quantum dot clusters activated by a femtosecond Grape pulse. It includes colloidal CdSe/ZnS quantum dots, a femtosecond laser, fiber optic deformation sensors, a microcontroller, and calibration software. We provide a formal experimental protocol and three key validation criteria: restoration efficiency, response time, and cyclic durability. The Classic Kit transforms the SHOA theory of collective quantum healing into a reproducible, laboratory-ready engineering platform.
+\end{abstract}
+
+\section{Introduction}
+The SHOA-Classic model established that a collective of ten quantum dots, voting via the Spiked Voting protocol, can achieve room-temperature self-healing with over 99\% efficiency. However, translating this theoretical result into a working laboratory prototype requires a standardized, replicable hardware and software platform. The SHOA-Praktik Classic Kit fills this gap.
+
+The kit is designed to enable independent researchers to:
+\begin{enumerate}
+    \item Synthesize or integrate quantum dots into a host polymer matrix.
+    \item Detect microcracks and other damage using embedded fiber optic sensors.
+    \item Activate the Grape healing pulse with a femtosecond laser.
+    \item Verify restoration using quantitative metrics.
+\end{enumerate}
+
+This work provides the complete technical documentation and formal validation criteria necessary to distinguish genuine SHOA self-healing from conventional thermal or chemical repair.
+
+\section{Design and Architecture}
+\subsection{System Components}
+The Classic Kit consists of five integrated subsystems:
+\begin{itemize}
+    \item \textbf{Quantum Dot Reservoir:} Colloidal CdSe/ZnS quantum dots (4--6 nm), optimized for a resonance wavelength in the range 520--650 nm. Concentration in the host matrix: 0.1--1 wt.\%.
+    \item \textbf{Grape Pulse Laser:} A compact femtosecond laser delivering pulses of 100--500 fs duration, with adjustable wavelength and average power 1--5 W.
+    \item \textbf{Damage Sensor Array:} Fiber optic Bragg grating sensors embedded in the material. They detect microcracks ($>10~\mu$m) and local strain ($>0.5\%$).
+    \item \textbf{Microcontroller Unit:} An ARM Cortex-M4 processor that reads sensor data, runs the Spiked Voting algorithm, and triggers the laser. Connectivity: Bluetooth 5.0 / Wi-Fi.
+    \item \textbf{Calibration Software:} A Python/C++ application for tuning the laser to the quantum dot resonance, calibrating sensors, and visualizing the healing process in real time.
+\end{itemize}
+
+\subsection{Operational Workflow}
+The healing cycle follows a strict sequence:
+\begin{enumerate}
+    \item \textbf{Detection:} A sensor registers a microcrack exceeding the threshold.
+    \item \textbf{Decision:} The microcontroller verifies the signal and activates the laser.
+    \item \textbf{Pulse:} A femtosecond Grape pulse, with its shape pre-optimized by the GRAPE algorithm, illuminates the damaged area.
+    \item \textbf{Resonance:} The quantum dots absorb the pulse and transfer energy to the polymer matrix, inducing localized bond restructuring.
+    \item \textbf{Verification:} The sensors confirm the crack closure and the system returns to standby.
+\end{enumerate}
+
+\section{Formal Validation Criteria}
+To ensure that the observed healing is a genuine SHOA effect, we impose the following mandatory criteria.
+
+\subsection{Criterion I: Restoration Efficiency}
+\begin{itemize}
+    \item \textbf{Definition:} The material must recover at least 95\% of its original tensile strength after a single Grape pulse.
+    \item \textbf{Measurement:} Standardized tensile test (ASTM D638) before damage and 60 seconds after the pulse.
+    \item \textbf{Target:} $\sigma_{\text{healed}} / \sigma_{\text{original}} > 0.95$.
+    \item \textbf{Control:} A sample with quantum dots but without the Grape pulse must show $< 0.5$ recovery.
+\end{itemize}
+
+\subsection{Criterion II: Response Time}
+\begin{itemize}
+    \item \textbf{Definition:} The entire cycle from crack detection to the completion of healing must take less than 1 second for a microcrack $< 100~\mu$m.
+    \item \textbf{Measurement:} High-speed camera recording synchronized with the sensor log.
+    \item \textbf{Target:} $t_{\text{heal}} < 1$ s.
+\end{itemize}
+
+\subsection{Criterion III: Cyclic Durability}
+\begin{itemize}
+    \item \textbf{Definition:} The material must withstand at least 10,000 damage-healing cycles without degradation of restoration efficiency below 90\%.
+    \item \textbf{Measurement:} Automated cyclic loading and healing, measuring efficiency every 100 cycles.
+    \item \textbf{Target:} $F_{\text{cluster}}(N=10,000) > 0.90$.
+    \item \textbf{Significance:} This distinguishes SHOA self-healing from one-time chemical repair mechanisms.
+\end{itemize}
+
+\section{Conclusion}
+The SHOA-Praktik Classic Kit is the first complete, documented platform for implementing quantum dot-based self-healing. By satisfying the three formal criteria outlined here, any laboratory can independently verify the SHOA-Classic model. This kit marks the transition of SHOA from a theoretical framework to a practical engineering discipline.
+
+\end{document}
