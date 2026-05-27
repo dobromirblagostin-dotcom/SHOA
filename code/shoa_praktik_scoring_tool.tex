@@ -1,0 +1,33 @@
+```latex
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb, graphicx, hyperref}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\title{SHOA-Praktik: Scoring Tool -- A Business Resilience Assessment and Recovery System Based on the SHOA Index}
+\author{Konstantin Fedotov}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+We present the SHOA-Praktik Scoring Tool, the third practical module of the SHOA research program. Building on the SHOA-Scoring v2 (DOI: 10.5281/zenodo.20362727) and SHOA-Hedge (DOI: 10.5281/zenodo.20265503) preprints, the tool provides a complete system for assessing, monitoring, and restoring business resilience. It computes the SHOA Index from 10 independent financial and operational sensors, using a Spiked Voting protocol with an emergent penalty for cascading failure risk. The tool includes an industry benchmark database, a recovery protocol template, an ERP/CRM integration API, and a real-time resilience dashboard. We provide four formal validation criteria: default prediction accuracy, superiority over classical metrics, recovery sensitivity, and signal stability. The Scoring Tool transforms the theoretical SHOA Index into a deployable software product for banks, investors, and corporations.
+\end{abstract}
+
+\section{Introduction}
+Classical business scoring models (Altman Z-score, FICO, Moody's ratings) are static and backward-looking. They analyze historical financial ratios and fail to capture the dynamic capacity of a company to self-restore after a crisis. A business may appear healthy by conventional metrics while being on the verge of a cascading failure due to hidden vulnerabilities in its supply chain, culture, or adaptability.
+
+The SHOA-Scoring model addressed this gap by introducing a dynamic resilience index based on 10 independent sensors and the emergent penalty concept. The SHOA-Praktik Scoring Tool is the operational implementation of this model. It is a complete software and methodology package designed for deployment in banking risk departments, investment funds, and corporate management.
+
+\section{Design and Architecture}
+\subsection{System Components}
+The Scoring Tool consists of five integrated subsystems:
+\begin{itemize}
+    \item \textbf{SHOA Index Calculator:} Computes the composite resilience score from four parameters -- Pre-failure Memory (P), Adaptability (A), Redundancy (R), and Impulse Readiness (I). The formula is $I_{\text{SHOA}} = (P + A + R + I)/4$, with a configurable calculation frequency (1--24 hours).
+    \item \textbf{Industry Benchmark Database:} Contains reference SHOA Indices for over 10 industries and 50+ documented recovery cases, enabling comparative analysis.
+    \item \textbf{Recovery Protocol Engine:} A 7-stage template for crisis response, integrated with the SHOA-Hedge financial Grape pulse for automated asset reallocation and informational impulse.
+    \item \textbf{ERP/CRM Integration API:} Provides connectivity with 1C, SAP, Oracle, Salesforce, and banking systems via REST, SOAP, and GraphQL protocols.
+    \item \textbf{Resilience Dashboard:} A web-based interface for real-time visualization of the SHOA Index, parameter contributions, vulnerability heat maps, and for sending alerts when the index falls below 0.7.
+\end{itemize}
