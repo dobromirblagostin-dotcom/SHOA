@@ -1,9 +1,8 @@
-```markdown
 # SHOA — Self-Healing Optimized Architecture
 
 **Research program and technology platform.**
 
-SHOA integrates quantum physics, neural networks, and financial analytics into a unified self‑healing architecture. It is not just code — it is a scientific paradigm supported by publications and ready for implementation.
+SHOA integrates quantum physics, neural networks, and financial analytics into a unified self‑healing architecture.
 
 ## About the Project
 
