@@ -34,8 +34,7 @@ ORCID: [0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
 9. SHOA‑Chrono – [10.5281/zenodo.20350345](https://doi.org/10.5281/zenodo.20350345) (v2)
 10. SHOA‑X – [10.5281/zenodo.20364527](https://doi.org/10.5281/zenodo.20364527) (v3)
 
-## SHOA-Praktik Series (7 engineering modules)
-
+ ## SHOA-Praktik Series (8 engineering modules)
 1. Classic Kit – [10.5281/zenodo.20411863](https://doi.org/10.5281/zenodo.20411863)
 2. GRAPE Framework – [10.5281/zenodo.20412353](https://doi.org/10.5281/zenodo.20412353)
 3. Scoring Tool – [10.5281/zenodo.20412816](https://doi.org/10.5281/zenodo.20412816)
@@ -43,6 +42,7 @@ ORCID: [0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
 5. Neuro Chip DevKit – [10.5281/zenodo.20413677](https://doi.org/10.5281/zenodo.20413677)
 6. Neuro Interface – [10.5281/zenodo.20414368](https://doi.org/10.5281/zenodo.20414368)
 7. Universal Connector – [10.5281/zenodo.20414750](https://doi.org/10.5281/zenodo.20414750)
+8. Quantum Valley Interface — [10.5281/zenodo.20437178](https://doi.org/10.5281/zenodo.20437178)
 ## Whitepaper
 
 - [SHOA-Scoring: Quantum Emergence in Financial Risk Management (Whitepaper v1.0)](https://doi.org/10.5281/zenodo.20422857)
