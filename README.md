@@ -16,10 +16,10 @@ ORCID: [0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
 
 ## Repository Structure
 
-- `preprints/` – PDFs of all 10 preprints
-- `code/` – Python and LaTeX source code
-- `docs/` – Documentation
-- `chronoscope/` – Chronoscope T‑G models
+- [preprints/](preprints) – PDFs of all 10 preprints
+- [code/](code) – Python and LaTeX source code
+- [docs/](docs) – Documentation
+- [chronoscope/](chronoscope) – Chronoscope T‑G models
 
 ## SHOA Series (10 preprints)
 
