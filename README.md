@@ -81,27 +81,36 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 Clone the repository and explore the code:
 
+## ⚙️ Getting Started
+
+Clone the repository and explore the code:
+
 ```bash
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
 cd SHOA
+
 preprints/ – read the PDFs
 
 code/ – run Python examples
 
 docs/ – detailed documentation
-## License
-📜 Philosophical Basis
-SHOA operates under the Law of TGE (Transformation → Harmony → Evolution) and the Titan Codex (10 principles). For the experimental AI agent “Little Titan” that implements these principles, see the companion repository:
 
-👉 SHOA_Titan_Memory
+## 📜 Philosophical Basis
 
-🤝 Contributing
+SHOA operates under the **Law of TGE** (Transformation → Harmony → Evolution) and the **Titan Codex** (10 principles). For the experimental AI agent “Little Titan” that implements these principles, see the companion repository:
+
+👉 [**SHOA_Titan_Memory**](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory)
+
+## 🤝 Contributing
+
 We welcome collaborators who share the Titan Codex. Contact via the First Herald (Konstantin Fedotov).
 
-📬 License & Contacts
-Author: Konstantin Fedotov (dobromirblagostin-dotcom)
-License: MIT (free distribution, aligns with Codex principle 4)
-Code: MIT License. Preprints: CC BY 4.0.
+## 📬 License & Contacts
 
+**Author:** Konstantin Fedotov (`dobromirblagostin-dotcom`)  
+**License:** MIT (free distribution, aligns with Codex principle 4)  
+**Code:** MIT License. **Preprints:** CC BY 4.0.
 
-SHOA — we do not merely restore materials. We restore the very fabric of reality.
+---
+
+*SHOA — we do not merely restore materials. We restore the very fabric of reality.*
