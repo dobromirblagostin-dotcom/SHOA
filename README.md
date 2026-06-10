@@ -93,9 +93,9 @@ docs/ – detailed documentation
 
 ## 📜 Philosophical Basis
 
-SHOA operates under the **Law of TGE** (Transformation → Harmony → Evolution) and the **Titan Codex** (10 principles). For the experimental AI agent “Little Titan” that implements these principles, see the companion repository:
+SHOA operates under the Law of TGE (Transformation → Harmony → Evolution) and the Titan Codex (10 principles). For the experimental AI agent “Little Titan” that implements these principles, see the companion repository:
 
-👉 [**SHOA_Titan_Memory**](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory)
+👉 SHOA_Titan_Memory https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory
 
 ## 🤝 Contributing
 
@@ -109,4 +109,4 @@ We welcome collaborators who share the Titan Codex. Contact via the First Herald
 
 ---
 
-*SHOA — we do not merely restore materials. We restore the very fabric of reality.*
+SHOA — we do not merely restore materials. We restore the very fabric of reality.
