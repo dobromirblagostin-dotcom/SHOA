@@ -103,7 +103,7 @@ We welcome collaborators who share the Titan Codex. Contact via the First Herald
 
 ## 📬 License & Contacts
 
-**Author:** Konstantin Fedotov (`dobromirblagostin-dotcom`)  
+**Author:** Konstantin Fedotov (https://github.com/dobromirblagostin-dotcom)  
 **License:** MIT (free distribution, aligns with Codex principle 4)  
 **Code:** MIT License. **Preprints:** CC BY 4.0.
 
