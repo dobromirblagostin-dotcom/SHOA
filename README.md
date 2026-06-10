@@ -81,10 +81,6 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 Clone the repository and explore the code:
 
-## ⚙️ Getting Started
-
-Clone the repository and explore the code:
-
 ```bash
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
 cd SHOA
