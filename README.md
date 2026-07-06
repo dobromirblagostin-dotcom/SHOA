@@ -10,7 +10,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **36 total works** on Zenodo
+- 10 foundational preprints (2026) and **39 total works** on Zenodo
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
