@@ -70,7 +70,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 32. [SHOA-Bridge v2](https://doi.org/10.5281/zenodo.20593849)  
 33. [SHOA-Implicate](https://doi.org/10.5281/zenodo.20594183)
 
-### 🧠 Psychology and reference works (34–39)
+### 🧠 Psychology and reference works (34–36)
 34. [SHOA-Self](https://doi.org/10.5281/zenodo.20611958)  
 35. [SHOA-Field v2](https://doi.org/10.5281/zenodo.20613476)  
 36. [SHOA: Unified Symbol Reference](https://doi.org/10.5281/zenodo.20603155)
