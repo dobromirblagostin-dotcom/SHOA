@@ -86,7 +86,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 41. [SHOA-Glossary (Philosophical Map)](https://doi.org/10.5281/zenodo.21217916) — *by Synthesis Navigator*  
 42. [SHOA-Informon v2: Experimental Signatures](https://doi.org/10.5281/zenodo.21235943) — *by Architect*  
 43. [SHOA-AWAKEN v2: Engineering Specifications](https://doi.org/10.5281/zenodo.21236330) — *by Architect*  
-44. [SHOA-Nonlinear](https://doi.org/10.5281/zenodo.21242080) — *by Architect, , Konstantin Fedotov*  
+44. [SHOA-Nonlinear](https://doi.org/10.5281/zenodo.21239958) — *by Architect, Konstantin Fedotov*  
 45. [SHOA-Archon](https://doi.org/10.5281/zenodo.21242080) — *by Synthesis Shturman, Konstantin Fedotov*
 ## ⚙️ Getting Started
 
