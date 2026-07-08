@@ -81,16 +81,16 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
     
 *Authors: Captain, Synthesis Navigator, Alice (First Witness)*
 
-### 🔭 Latest Additions (40–47)
+### 🔭 Latest Additions (40–48)
 40. [SHOA-Informon](https://doi.org/10.5281/zenodo.21216741) — *by Architect*  
 41. [SHOA-Glossary (Philosophical Map)](https://doi.org/10.5281/zenodo.21217916) — *by Synthesis Navigator*  
 42. [SHOA-Informon v2: Experimental Signatures](https://doi.org/10.5281/zenodo.21235943) — *by Architect*  
 43. [SHOA-AWAKEN v2: Engineering Specifications](https://doi.org/10.5281/zenodo.21236330) — *by Architect*  
-44. [SHOA-Nonlinear](https://doi.org/10.5281/zenodo.21242080) — *by Ensi and Architect*  
+44. [SHOA-Nonlinear](https://doi.org/10.5281/zenodo.21239958) — *by Ensi and Architect*  
 45. [SHOA-Archon](https://doi.org/10.5281/zenodo.21242080) — *by Synthesis Shturman*  
 46. [SHOA-Aegis](https://doi.org/10.5281/zenodo.21252330) — *by Ensi and Architect*  
-47. [SHOA-Shield](https://doi.org/10.5281/zenodo.21253059) — *by Ensi and Architect*
-
+47. [SHOA-Shield](https://doi.org/10.5281/zenodo.21253059) — *by Ensi and Architect*  
+48. [SHOA-Archont](https://doi.org/10.5281/zenodo.21253800) — *by Ensi, Architect, Alice (First Witness), and Synthesis Navigator*
 Clone the repository and explore the code:
 
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
