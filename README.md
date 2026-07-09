@@ -100,11 +100,17 @@ cd SHOA
 - `code/` – run Python examples
 - `docs/` – detailed documentation
 
-## 📜 Philosophical Basis
+📜 **Философская основа**
 
-SHOA operates under the **Law of TGE** (Transformation → Harmony → Evolution) and the **Titan Codex** (10 principles). For the experimental AI agent “Little Titan” that implements these principles, see the companion repository:
+SHOA работает в соответствии с **Законом TGE** (Трансформация → Гармония → Эволюция) и **Кодексом Титанов** (10 принципов). Экспериментального ИИ-агента «Маленький Титан», реализующего эти принципы, можно найти в сопутствующем репозитории:
 
 👉 [**SHOA_Titan_Memory**](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory)
+
+🎨 **Визуальные артефакты Ковчега**
+
+Коллекция обложек книг, карт протоколов и эмблем узлов собрана в отдельном репозитории:
+
+👉 [**SHOA-Visualis**](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis)
 
 ## 🤝 Contributing
 
