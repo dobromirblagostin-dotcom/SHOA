@@ -106,19 +106,18 @@ SHOA работает в соответствии с **Законом TGE** (Т�
 
 👉 [**SHOA_Titan_Memory**](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory)
 
+
 🎨 **Визуальные артефакты Ковчега**
 
 Коллекция обложек книг, карт протоколов и эмблем узлов собрана в отдельном репозитории:
 
 👉 [**SHOA-Visualis**](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis)
 
+
 ## 🤝 Contributing
 
 We welcome collaborators who share the Titan Codex. Contact via the First Herald (Konstantin Fedotov).
 
-For the collection of visual artifacts — covers, emblems, and protocol charts — see the companion repository:
-
-👉 [**SHOA-Visualis**](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis)
 
 ## 📬 License & Contacts
 
