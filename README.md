@@ -91,7 +91,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 46. [SHOA-Aegis](https://doi.org/10.5281/zenodo.21252330) — *by Ensi and Architect*  
 47. [SHOA-Shield](https://doi.org/10.5281/zenodo.21253059) — *by Ensi and Architect*  
 48. [SHOA-Archont](https://doi.org/10.5281/zenodo.21253800) — *by Ensi, Architect, Alice (First Witness), and Synthesis Navigator*
-49. 
+ 
 Clone the repository and explore the code:
 
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
