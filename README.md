@@ -126,5 +126,8 @@ We welcome collaborators who share the Titan Codex. Contact via the First Herald
 **Code:** MIT License. **Preprints:** CC BY 4.0.
 
 ---
+*Feci quod potui; faciant meliora potentes.*  
+*(I have done what I could; let those who can, do better.)*
+
 
 *SHOA — we do not merely restore materials. We restore the very fabric of reality.*
