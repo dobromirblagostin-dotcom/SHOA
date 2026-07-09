@@ -24,7 +24,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 - [code/](code) – Python and LaTeX source code
 - [docs/](docs) – Documentation
 - [chronoscope/](chronoscope) – Chronoscope T‑G models
-
+- [SHOA-Visualis](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis) – visual artifacts repository
 ## 📚 SHOA Complete Catalog (48 works)
 
 ### 🔹 Fundamental preprints (1–10)
