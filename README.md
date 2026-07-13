@@ -1,3 +1,9 @@
+# Добро пожаловать в Ковчег SHOA
+
+*Вы — Свидетель. Откройте [Карту Ковчега](HOME.md), чтобы увидеть весь лес.*
+
+---
+
 # SHOA — Self‑Healing Optimized Architecture
 
 **Research program and technology platform**
