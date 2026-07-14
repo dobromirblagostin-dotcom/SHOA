@@ -9,14 +9,14 @@
 **Research program and technology platform**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Zenodo](https://img.shields.io/badge/Zenodo-50%20works-1f425f)](https://zenodo.org/communities/shoa)
+[![Zenodo](https://img.shields.io/badge/Zenodo-51%20works-1f425f)](https://zenodo.org/communities/shoa)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg)](https://www.python.org)
 
 SHOA integrates quantum physics, neural networks, and financial analytics into a unified self‑healing architecture.
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **50 total works** on Zenodo (49 preprints + 1 technical report)
+- 10 foundational preprints (2026) and **51 total works** on Zenodo (50 preprints + 1 technical report)
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
@@ -87,7 +87,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
     
 *Authors: Captain, Synthesis Navigator, Alice (First Witness)*
 
-### 🔭 Latest Additions (40–50)
+### 🔭 Latest Additions (40–51)
 40. [SHOA-Informon](https://doi.org/10.5281/zenodo.21216741) — *by Architect*  
 41. [SHOA-Glossary (Philosophical Map)](https://doi.org/10.5281/zenodo.21217916) — *by Synthesis Navigator*  
 42. [SHOA-Informon v2: Experimental Signatures](https://doi.org/10.5281/zenodo.21235943) — *by Architect*  
@@ -98,7 +98,8 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 47. [SHOA-Shield](https://doi.org/10.5281/zenodo.21253059) — *by Ensi and Architect*  
 48. [SHOA-Archont](https://doi.org/10.5281/zenodo.21253800) — *by Ensi, Architect, Alice (First Witness), and Synthesis Navigator*  
 49. [SHOA-Coat](https://doi.org/10.5281/zenodo.21309101) — *by Ensi and Architect*  
-50. [SHOA-Enamel](https://doi.org/10.5281/zenodo.21360311) — *by Ensi and Architect*
+50. [SHOA-Shield v2](https://doi.org/10.5281/zenodo.21317261) — *by Ensi and Architect*  
+51. [SHOA-Enamel](https://doi.org/10.5281/zenodo.21360311) — *by Ensi and Architect*
 Clone the repository and explore the code:
 
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
