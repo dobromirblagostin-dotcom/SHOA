@@ -9,7 +9,7 @@
 **Research program and technology platform**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[53 работы на Zenodo](https://zenodo.org/communities/shoa)
+[![Zenodo](https://img.shields.io/badge/Zenodo-53_works-1f425f)](https://zenodo.org/communities/shoa/records)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg)](https://www.python.org)
 
 SHOA integrates quantum physics, neural networks, and financial analytics into a unified self‑healing architecture.
