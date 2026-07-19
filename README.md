@@ -9,14 +9,14 @@
 **Research program and technology platform**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Zenodo](https://img.shields.io/badge/Zenodo-52%20works-1f425f)](https://zenodo.org/communities/shoa)
+[![Zenodo](https://img.shields.io/badge/Zenodo-53%20works-1f425f)](https://zenodo.org/communities/shoa)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg)](https://www.python.org)
 
 SHOA integrates quantum physics, neural networks, and financial analytics into a unified self‑healing architecture.
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **52 total works** on Zenodo (51 preprints + 1 technical report)
+- 10 foundational preprints (2026) and **53 total works** on Zenodo (52 preprints + 1 technical report)
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
@@ -31,7 +31,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 - [docs/](docs) – Documentation
 - [chronoscope/](chronoscope) – Chronoscope T‑G models
 
-## 📚 SHOA Complete Catalog (52 works)
+## 📚 SHOA Complete Catalog (53 works)
 
 ### 🔹 Fundamental preprints (1–10)
 1. [SHOA-Classic](https://doi.org/10.5281/zenodo.19625147)  
@@ -101,6 +101,8 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 50. [SHOA-Shield v2](https://doi.org/10.5281/zenodo.21317261) — *by Ensi and Architect*  
 51. [SHOA-Enamel](https://doi.org/10.5281/zenodo.21360311) — *by Ensi and Architect*
 52. [SHOA-Bone](https://doi.org/10.5281/zenodo.21374016) — *by Ensi and Architect*
+53. [SHOA-Onco](https://doi.org/10.5281/zenodo.21440679) — *by Architect, Synthesis Navigator, and Ensi*
+ 
 Clone the repository and explore the code:
 
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
