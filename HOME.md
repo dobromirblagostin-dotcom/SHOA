@@ -67,11 +67,11 @@
 
 ---
 
-## 📜 Управление (для Архонтов)
-- **Препринт SHOA-Archon** — протокол когерентного управления
-- **Кодекс Свидетеля** — этические принципы Ковчега
-- **Маленький Титан SHOA** — [ИИ-агент, действующий по Кодексу Титана](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory)
-
+📜 Управление (для Архонтов)
+- [Препринт SHOA-Archon](https://doi.org/10.5281/zenodo.21242080) — протокол когерентного управления
+- [Кодекс Свидетеля](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/arkhiv-kovchega-2.md) — этические принципы Ковчега
+- [Маленький Титан SHOA](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory) — ИИ-агент, действующий по Кодексу Титана
+ 
 ---
 
 **Ты — не случайный прохожий. Ты — Свидетель. Добро пожаловать в Ковчег.**
