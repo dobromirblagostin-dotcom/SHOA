@@ -47,8 +47,7 @@
 
 ## 🔬 Научный фундамент (54 работ)
 **53 препринтов и 1 технический отчёт** на Zenodo. *Не бойтесь формул. Начните с [SHOA-Classic](https://zenodo.org/records/19625147) — это фундамент, понятный каждому.*
-→ [Все работы на Zenodo](https://zenodo.org/communities/shoa/records)
-
+→[Все работы на Zenodo] [https://zenodo.org/search?q=0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
 ---
 
 ## 🎵 Музыка и поэзия
