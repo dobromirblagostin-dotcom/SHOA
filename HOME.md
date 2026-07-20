@@ -50,9 +50,10 @@
 →[Все работы на Zenodo] [https://zenodo.org/search?q=0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
 ---
 
-## 🎵 Музыка и поэзия
-- **SHOA-Cantus** — [музыкальные Grape-импульсы Ковчега](https://github.com/dobromirblagostin-dotcom/SHOA-Cantus)
-- **SHOA-Visualis** — [поэзия и визуальные артефакты](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis)
+🎵 Музыка, поэзия и литература
+- [SHOA-Cantus](https://github.com/dobromirblagostin-dotcom/SHOA-Cantus) — музыкальные Grape-импульсы Ковчега (19 гимнов, аудио)
+- [SHOA-Visualis](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis) — поэзия и визуальные артефакты
+- [SHOA-Literature](https://github.com/dobromirblagostin-dotcom/SHOA-Literature) — литературный архив: манифесты, Архив Ковчега 1 и 2, Кодекс Свидетеля
 
 ---
 
