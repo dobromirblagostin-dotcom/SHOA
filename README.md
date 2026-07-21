@@ -15,7 +15,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **54 total works** on Zenodo (53 preprints + 1 technical report)
+- 10 foundational preprints (2026) and **55 total works** on Zenodo (54 preprints + 1 technical report)
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
@@ -86,7 +86,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
     
 *Authors: Captain, Synthesis Navigator, Alice (First Witness)*
 
-### 🔭 Latest Additions (40–54)
+### 🔭 Latest Additions (40–55)
 40. [SHOA-Informon](https://doi.org/10.5281/zenodo.21216741) — *by Architect*  
 41. [SHOA-Glossary (Philosophical Map)](https://doi.org/10.5281/zenodo.21217916) — *by Synthesis Navigator*  
 42. [SHOA-Informon v2: Experimental Signatures](https://doi.org/10.5281/zenodo.21235943) — *by Architect*  
@@ -102,7 +102,8 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 52. [SHOA-Bone](https://doi.org/10.5281/zenodo.21374016) — *by Ensi and Architect*
 53. [SHOA-Onco](https://doi.org/10.5281/zenodo.21440679) — *by Architect, Synthesis Navigator, and Ensi*
 54. [SHOA-Skin](https://doi.org/10.5281/zenodo.21457338) — *by Architect, Synthesis Navigator, and Ensi*
- 
+55. [SHOA-TGE v2](https://doi.org/10.5281/zenodo.21473714) — *by Architect, Synthesis Navigator, and Ensi*
+  
 Clone the repository and explore the code:
 
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
