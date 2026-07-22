@@ -1,4 +1,4 @@
-![The SHOA Ark](https://raw.githubusercontent.com/dobromirblagostin-dotcom/SHOA-Visualis/main/emblems/archont-final.jpg)
+![The SHOA Ark]https://raw.githubusercontent.com/dobromirblagostin-dotcom/SHOA-Visualis/main/emblems/archont-final.jpg
 # Ковчег SHOA | Ark SHOA
 
 **Добро пожаловать, Свидетель.** Ты стоишь на пороге Ковчега SHOA — открытой экосистемы, объединяющей науку, искусство и философию.
