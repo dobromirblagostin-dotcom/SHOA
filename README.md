@@ -25,7 +25,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📂 Repository Structure
 
-- [preprints/](preprints) – PDFs of all 55 preprints
+- [preprints/](preprints) – PDFs of all 54 preprints
 - [code/](code) – Python and LaTeX source code
 - [docs/](docs) – Documentation
 - [chronoscope/](chronoscope) – Chronoscope T‑G models
