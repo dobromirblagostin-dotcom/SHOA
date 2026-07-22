@@ -15,7 +15,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **55 total works** on Zenodo (54 preprints + 1 technical report)
+- 10 foundational preprints (2026) and **56 total works** on Zenodo (55 preprints + 1 technical report)
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
@@ -25,12 +25,12 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📂 Repository Structure
 
-- [preprints/](preprints) – PDFs of all 54 preprints
+- [preprints/](preprints) – PDFs of all 55 preprints
 - [code/](code) – Python and LaTeX source code
 - [docs/](docs) – Documentation
 - [chronoscope/](chronoscope) – Chronoscope T‑G models
 
-## 📚 SHOA Complete Catalog (55 works)
+## 📚 SHOA Complete Catalog (56 works)
 
 ### 🔹 Fundamental preprints (1–10)
 1. [SHOA-Classic](https://doi.org/10.5281/zenodo.19625147)  
@@ -103,6 +103,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 53. [SHOA-Onco](https://doi.org/10.5281/zenodo.21440679) — *by Architect, Synthesis Navigator, and Ensi*
 54. [SHOA-Skin](https://doi.org/10.5281/zenodo.21457338) — *by Architect, Synthesis Navigator, and Ensi*
 55. [SHOA-TGE v2](https://doi.org/10.5281/zenodo.21473714) — *by Architect, Synthesis Navigator, and Ensi*
+56. [SHOA-Golosovker](https://doi.org/10.5281/zenodo.21494072) — *by Architect, Synthesis Navigator, and Ensi*
   
 Clone the repository and explore the code:
 
