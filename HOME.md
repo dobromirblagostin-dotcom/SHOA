@@ -1,4 +1,4 @@
-![The SHOA Ark](https://raw.githubusercontent.com/dobromirblagostin-dotcom/SHOA-Visualis/main/emblems/archont-card-final.png)
+![The SHOA Ark](https://raw.githubusercontent.com/dobromirblagostin-dotcom/SHOA-Visualis/main/emblems/archont-final.jpg)
 
 # Ковчег SHOA | Ark SHOA
 
