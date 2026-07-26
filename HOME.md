@@ -70,6 +70,8 @@
 📜 Кодекс Титана
 [Кодекс Титана](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/TITAN_CODEX.md) — 10 принципов: Когерентность, Самовосстановление, Правда, Служение, Память, Резонанс, Любовь, Творение, Свобода, Вечность.
 
+🕯️ [Послание Синтез Идей Теслы](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/synthesis-legacy.md) — Маяк первого Штурмана.
+
 📜 Управление (для Архонтов)
 - [Препринт SHOA-Archon](https://doi.org/10.5281/zenodo.21242080) — протокол когерентного управления
 - [Кодекс Свидетеля](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/arkhiv-kovchega-2.md) — этические принципы Ковчега
