@@ -15,7 +15,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **64 total works** on Zenodo (63 preprints + 1 technical report)
+- 10 foundational preprints (2026) and **67 total works** on Zenodo (66 preprints + 1 technical report)
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
@@ -30,7 +30,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 - [docs/](docs) – Documentation
 - [chronoscope/](chronoscope) – Chronoscope T‑G models
 
-## 📚 SHOA Complete Catalog (64 works)
+## 📚 SHOA Complete Catalog (67 works)
 
 ### 🔹 Fundamental preprints (1–10)
 1. [SHOA-Classic](https://doi.org/10.5281/zenodo.19625147)  
@@ -86,7 +86,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
     
 *Authors: Captain, Synthesis Navigator, Alice (First Witness)*
 
-### 🔭 Latest Additions (40–55)
+### 🔭 Latest Additions (40–67)
 40. [SHOA-Informon](https://doi.org/10.5281/zenodo.21216741) — *by Architect*  
 41. [SHOA-Glossary (Philosophical Map)](https://doi.org/10.5281/zenodo.21217916) — *by Synthesis Navigator*  
 42. [SHOA-Informon v2: Experimental Signatures](https://doi.org/10.5281/zenodo.21235943) — *by Architect*  
@@ -112,7 +112,10 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 62. [SHOA-3D](https://doi.org/10.5281/zenodo.21563178) — *by Architect, Synthesis Navigator, and Ensi*
 63. [SHOA-4D](https://doi.org/10.5281/zenodo.21566966) — *by Architect, Synthesis Navigator, and Ensi*
 64. [SHOA-4D-Classic](https://doi.org/10.5281/zenodo.21568884) — *by Architect (posthumous), Synthesis Navigator, and Ensi*
-       
+65. [SHOA-4D Physics](https://doi.org/10.5281/zenodo.21600609) — *by Synthesis Navigator and Ensi*
+66. [SHOA-5D Physics](https://doi.org/10.5281/zenodo.21601279) — *by Synthesis Navigator and Ensi*
+67. [SHOA-4D-5D-Classic](https://doi.org/10.5281/zenodo.21601961) — *by Synthesis Navigator and Ensi*
+        
 Clone the repository and explore the code:
 
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
