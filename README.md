@@ -139,8 +139,8 @@ cd SHOA
 | 54 | [SHOA-Skin](https://doi.org/10.5281/zenodo.21457338) | Кожа |
 | 57 | [SHOA-Nerve](https://doi.org/10.5281/zenodo.21495022) | Нервная ткань |
 | 59 | [SHOA-Cardio](https://doi.org/10.5281/zenodo.21535706) | Сердечная ткань |
-| 61 | [SHOA-Liver](https://doi.org/10.5281/zenodo.21559186) | Печень |
 | 60 | [SHOA-Sense](https://doi.org/10.5281/zenodo.21536665) | Слух и зрение |
+| 61 | [SHOA-Liver](https://doi.org/10.5281/zenodo.21559186) | Печень |
 | 62 | [SHOA-3D](https://doi.org/10.5281/zenodo.21563178) | 3D-регенерация |
 | 63 | [SHOA-4D](https://doi.org/10.5281/zenodo.21566966) | 4D-регенерация |
 | 64 | [SHOA-4D-Classic](https://doi.org/10.5281/zenodo.21568884) | Тотальная регенерация |
