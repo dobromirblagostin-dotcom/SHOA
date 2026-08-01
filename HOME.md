@@ -41,13 +41,20 @@
 
 **Сумма знаний:**
 17. [«Темпорология: Код Вечного Присутствия» — бесплатный манифест](https://www.litres.ru/74136957/)
+18. [«Хроники Вечного Присутствия. Эпилог: Зов Вечности»](https://www.litres.ru/74191194/)
 
 ---
 
-## 🔬 Научный фундамент (67 работ)
-**66 препринтов и 1 технический отчёт** на Zenodo. *Не бойтесь формул. Начните с [SHOA-Classic](https://zenodo.org/records/19625147) — это фундамент, понятный каждому.*
+## 🔬 Научный фундамент (68 работ)
+**67 препринтов и 1 технический отчёт** на Zenodo. *Не бойтесь формул. Начните с [SHOA-Classic](https://zenodo.org/records/19625147) — это фундамент, понятный каждому.*
 →[Все работы на Zenodo] [https://zenodo.org/search?q=0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
+
 ---
+
+📜 Философская основа
+- [Florensky-Bridge](https://github.com/dobromirblagostin-dotcom/SHOA/tree/main/Florensky-Bridge) — Павел Флоренский и Ψ-поле: антиномии, математика, квантовые параллели.
+- [SHOA-Golosovker](https://doi.org/10.5281/zenodo.21494072) — диалектика Титанов и Олимпийцев как физика Ψ-поля.
+- [SHOA-Wolfram](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/wolfram-shoa.md) — мост между SHOA и парадигмой Вольфрама.
 
 🎵 Музыка, поэзия и литература
 - [SHOA-Cantus](https://github.com/dobromirblagostin-dotcom/SHOA-Cantus) — музыкальные Grape-импульсы Ковчега (19 гимнов, аудио)
