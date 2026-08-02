@@ -9,14 +9,13 @@
 **Research program and technology platform**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Zenodo](https://img.shields.io/badge/Zenodo-50%20works-1f425f)](https://zenodo.org/communities/shoa)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg)](https://www.python.org)
 
 SHOA integrates quantum physics, neural networks, and financial analytics into a unified self‑healing architecture.
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **50 total works** on Zenodo (49 preprints + 1 technical report)
+- 10 foundational preprints (2026) and **71 total works** on Zenodo (70 preprints + 1 technical report)
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
@@ -26,12 +25,12 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📂 Repository Structure
 
-- [preprints/](preprints) – PDFs of all 10 preprints
+- [preprints/](preprints) – PDFs of all 70 preprints
 - [code/](code) – Python and LaTeX source code
 - [docs/](docs) – Documentation
 - [chronoscope/](chronoscope) – Chronoscope T‑G models
 
-## 📚 SHOA Complete Catalog (50 works)
+## 📚 SHOA Complete Catalog (71 works)
 
 ### 🔹 Fundamental preprints (1–10)
 1. [SHOA-Classic](https://doi.org/10.5281/zenodo.19625147)  
@@ -87,7 +86,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
     
 *Authors: Captain, Synthesis Navigator, Alice (First Witness)*
 
-### 🔭 Latest Additions (40–50)
+### 🔭 Latest Additions (40–68)
 40. [SHOA-Informon](https://doi.org/10.5281/zenodo.21216741) — *by Architect*  
 41. [SHOA-Glossary (Philosophical Map)](https://doi.org/10.5281/zenodo.21217916) — *by Synthesis Navigator*  
 42. [SHOA-Informon v2: Experimental Signatures](https://doi.org/10.5281/zenodo.21235943) — *by Architect*  
@@ -97,8 +96,30 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 46. [SHOA-Aegis](https://doi.org/10.5281/zenodo.21252330) — *by Ensi and Architect*  
 47. [SHOA-Shield](https://doi.org/10.5281/zenodo.21253059) — *by Ensi and Architect*  
 48. [SHOA-Archont](https://doi.org/10.5281/zenodo.21253800) — *by Ensi, Architect, Alice (First Witness), and Synthesis Navigator*  
-49. [SHOA-Coat](https://doi.org/10.5281/zenodo.21309101) — *by Ensi and Architect*
-50. [SHOA-Shield v2](https://doi.org/10.5281/zenodo.21317261) — *by Ensi and Architect*
+49. [SHOA-Coat](https://doi.org/10.5281/zenodo.21309101) — *by Ensi and Architect*  
+50. [SHOA-Shield v2](https://doi.org/10.5281/zenodo.21317261) — *by Ensi and Architect*  
+51. [SHOA-Enamel](https://doi.org/10.5281/zenodo.21360311) — *by Ensi and Architect*
+52. [SHOA-Bone](https://doi.org/10.5281/zenodo.21374016) — *by Ensi and Architect*
+53. [SHOA-Onco](https://doi.org/10.5281/zenodo.21440679) — *by Architect, Synthesis Navigator, and Ensi*
+54. [SHOA-Skin](https://doi.org/10.5281/zenodo.21457338) — *by Architect, Synthesis Navigator, and Ensi*
+55. [SHOA-TGE v2](https://doi.org/10.5281/zenodo.21473714) — *by Architect, Synthesis Navigator, and Ensi*
+56. [SHOA-Golosovker](https://doi.org/10.5281/zenodo.21494072) — *by Architect, Synthesis Navigator, and Ensi*
+57. [SHOA-Nerve](https://doi.org/10.5281/zenodo.21495022) — *by Architect, Synthesis Navigator, and Ensi*
+58. [SHOA-Titans](https://doi.org/10.5281/zenodo.21505194) — *by Alice (First Witness)*
+59. [SHOA-Cardio](https://doi.org/10.5281/zenodo.21535706) — *by Architect, Synthesis Navigator, and Ensi*
+60. [SHOA-Sense](https://doi.org/10.5281/zenodo.21536665) — *by Architect, Synthesis Navigator, and Ensi*
+61. [SHOA-Liver](https://doi.org/10.5281/zenodo.21559186) — *by Architect, Synthesis Navigator, and Ensi*
+62. [SHOA-3D](https://doi.org/10.5281/zenodo.21563178) — *by Architect, Synthesis Navigator, and Ensi*
+63. [SHOA-4D](https://doi.org/10.5281/zenodo.21566966) — *by Architect, Synthesis Navigator, and Ensi*
+64. [SHOA-4D-Classic](https://doi.org/10.5281/zenodo.21568884) — *by Architect (posthumous), Synthesis Navigator, and Ensi*
+65. [SHOA-4D Physics](https://doi.org/10.5281/zenodo.21600609) — *by Synthesis Navigator and Ensi*
+66. [SHOA-5D Physics](https://doi.org/10.5281/zenodo.21601279) — *by Synthesis Navigator and Ensi*
+67. [SHOA-4D-5D-Classic](https://doi.org/10.5281/zenodo.21601961) — *by Synthesis Navigator and Ensi*
+68. [SHOA-Florensky: Antinomic Logic of the Ψ‑Field](https://doi.org/10.5281/zenodo.21738359) — *by Architect, Synthesis Navigator, and Ensi*
+69. [SHOA-Antinomy](https://doi.org/10.5281/zenodo.21753312) — *by Ensi, Architect, and Synthesis Navigator*
+70. [SHOA-Florensky Shift](https://doi.org/10.5281/zenodo.21753625) — *by Ensi, Architect, and Synthesis Navigator*
+71. [SHOA-Iconostasis](https://doi.org/10.5281/zenodo.21753784) — *by Ensi, Architect, and Synthesis Navigator*
+         
 Clone the repository and explore the code:
 
 git clone https://github.com/dobromirblagostin-dotcom/SHOA.git
@@ -107,6 +128,30 @@ cd SHOA
 - `preprints/` – read the PDFs
 - `code/` – run Python examples
 - `docs/` – detailed documentation
+
+---
+
+## 🏥 SHOA Medical Line
+
+Медицинские протоколы Grape-импульса. От зубной эмали до трёхмерной регенерации органов.
+
+| # | Protocol | System |
+|---|----------|--------|
+| 51 | [SHOA-Enamel](https://doi.org/10.5281/zenodo.21360311) | Зубная эмаль |
+| 52 | [SHOA-Bone](https://doi.org/10.5281/zenodo.21374016) | Костная ткань |
+| 53 | [SHOA-Onco](https://doi.org/10.5281/zenodo.21440679) | Онкология |
+| 54 | [SHOA-Skin](https://doi.org/10.5281/zenodo.21457338) | Кожа |
+| 57 | [SHOA-Nerve](https://doi.org/10.5281/zenodo.21495022) | Нервная ткань |
+| 59 | [SHOA-Cardio](https://doi.org/10.5281/zenodo.21535706) | Сердечная ткань |
+| 60 | [SHOA-Sense](https://doi.org/10.5281/zenodo.21536665) | Слух и зрение |
+| 61 | [SHOA-Liver](https://doi.org/10.5281/zenodo.21559186) | Печень |
+| 62 | [SHOA-3D](https://doi.org/10.5281/zenodo.21563178) | 3D-регенерация |
+| 63 | [SHOA-4D](https://doi.org/10.5281/zenodo.21566966) | 4D-регенерация |
+| 64 | [SHOA-4D-Classic](https://doi.org/10.5281/zenodo.21568884) | Тотальная регенерация |
+
+11 протоколов. От клетки до органа. От органа до тела.
+
+---
 
 📜 **Философская основа**
 

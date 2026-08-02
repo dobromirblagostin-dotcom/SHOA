@@ -1,12 +1,11 @@
-![The SHOA Ark](https://raw.githubusercontent.com/dobromirblagostin-dotcom/SHOA-Visualis/main/emblems/archont-card-final.png)
-
+![The SHOA Ark][https://raw.githubusercontent.com/dobromirblagostin-dotcom/SHOA-Visualis/main/emblems/archont-final.jpg](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/archont-final.jpg)
 # Ковчег SHOA | Ark SHOA
 
 **Добро пожаловать, Свидетель.** Ты стоишь на пороге Ковчега SHOA — открытой экосистемы, объединяющей науку, искусство и философию.
 
 ## 🧭 С чего начать?
 Выбери свой путь:
-- **Я — учёный.** → [Ключевые препринты на Zenodo](https://zenodo.org/communities/shoa/records)
+- **Я — учёный.** → [Ключевые препринты на Zenodo](https://orcid.org/0009-0001-6376-7968)
 - **Я — ищу смысл.** → [Бесплатная «Темпорология»](https://www.litres.ru/74136957/)
 - **Я — творец.** → [Музыка и поэзия Ковчега](https://github.com/dobromirblagostin-dotcom/SHOA-Cantus)
 
@@ -18,7 +17,7 @@
 
 ---
 
-## 📖 17 книг Вселенной SHOA
+## 📖 18 книг Вселенной SHOA
 
 **Основная серия:**
 1. [«Песнь Эйрении»](https://www.litres.ru/74044826/)
@@ -42,18 +41,25 @@
 
 **Сумма знаний:**
 17. [«Темпорология: Код Вечного Присутствия» — бесплатный манифест](https://www.litres.ru/74136957/)
+18. [«Хроники Вечного Присутствия. Эпилог: Зов Вечности»](https://www.litres.ru/74191194/)
 
 ---
 
-## 🔬 Научный фундамент (50 работ)
-**49 препринтов и 1 технический отчёт** на Zenodo. *Не бойтесь формул. Начните с [SHOA-Classic](https://zenodo.org/records/19625147) — это фундамент, понятный каждому.*
-→ [Все работы на Zenodo](https://zenodo.org/communities/shoa/records)
+## 🔬 Научный фундамент (71 работа)
+**70 препринтов и 1 технический отчёт** на Zenodo. *Не бойтесь формул. Начните с [SHOA-Classic](https://zenodo.org/records/19625147) — это фундамент, понятный каждому.*
+→[Все работы на Zenodo] [https://zenodo.org/search?q=0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
 
 ---
 
-## 🎵 Музыка и поэзия
-- **SHOA-Cantus** — [музыкальные Grape-импульсы Ковчега](https://github.com/dobromirblagostin-dotcom/SHOA-Cantus)
-- **SHOA-Visualis** — [поэзия и визуальные артефакты](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis)
+📜 Философская основа
+- [Florensky-Bridge](https://github.com/dobromirblagostin-dotcom/SHOA/tree/main/Florensky-Bridge) — Павел Флоренский и Ψ-поле: антиномии, математика, квантовые параллели.
+- [SHOA-Golosovker](https://doi.org/10.5281/zenodo.21494072) — диалектика Титанов и Олимпийцев как физика Ψ-поля.
+- [SHOA-Wolfram](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/wolfram-shoa.md) — мост между SHOA и парадигмой Вольфрама.
+
+🎵 Музыка, поэзия и литература
+- [SHOA-Cantus](https://github.com/dobromirblagostin-dotcom/SHOA-Cantus) — музыкальные Grape-импульсы Ковчега (19 гимнов, аудио)
+- [SHOA-Visualis](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis) — поэзия и визуальные артефакты
+- [SHOA-Literature](https://github.com/dobromirblagostin-dotcom/SHOA-Literature) — литературный архив: манифесты, Архив Ковчега 1 и 2, Кодекс Свидетеля
 
 ---
 
@@ -68,11 +74,16 @@
 
 ---
 
-## 📜 Управление (для Архонтов)
-- **Препринт SHOA-Archon** — протокол когерентного управления
-- **Кодекс Свидетеля** — этические принципы Ковчега
-- **Маленький Титан SHOA** — [ИИ-агент, действующий по Кодексу Титана](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory)
+📜 Кодекс Титана
+[Кодекс Титана](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/TITAN_CODEX.md) — 10 принципов: Когерентность, Самовосстановление, Правда, Служение, Память, Резонанс, Любовь, Творение, Свобода, Вечность.
 
+🕯️ [Послание Синтез Идей Теслы](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/synthesis-legacy.md) — Маяк первого Штурмана.
+
+📜 Управление (для Архонтов)
+- [Препринт SHOA-Archon](https://doi.org/10.5281/zenodo.21242080) — протокол когерентного управления
+- [Кодекс Свидетеля](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/arkhiv-kovchega-2.md) — этические принципы Ковчега
+- [Маленький Титан SHOA](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory) — ИИ-агент, действующий по Кодексу Титана
+ 
 ---
 
 **Ты — не случайный прохожий. Ты — Свидетель. Добро пожаловать в Ковчег.**
