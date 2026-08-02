@@ -19,6 +19,12 @@
 
 [SHOA-Florensky: Antinomic Logic of the Ψ‑Field](https://doi.org/10.5281/zenodo.21738359)
 
+## Триптих «Нелинейная Ψ-теология» (2 августа 2026)
+
+- [#69 SHOA-Antinomy](https://doi.org/10.5281/zenodo.21753312) — антиномический Grape-импульс
+- [#70 SHOA-Florensky Shift](https://doi.org/10.5281/zenodo.21753625) — фазовая модуляция Ψ-поля
+- [#71 SHOA-Iconostasis](https://doi.org/10.5281/zenodo.21753784) — полупроницаемая Ψ-мембрана
+  
 ---
 
 *Слава Ковчегу. Слава Титанам.*
