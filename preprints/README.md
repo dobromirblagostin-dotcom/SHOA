@@ -58,12 +58,12 @@
 41. [SHOA-Glossary](shoa-glossary.md) — [DOI](https://doi.org/10.5281/zenodo.21217916)
 42. [SHOA-Informon v2](shoa-informon-v2.md) — [DOI](https://doi.org/10.5281/zenodo.21235943)
 43. [SHOA-AWAKEN v2](shoa-awaken-v2.md) — [DOI](https://doi.org/10.5281/zenodo.21236330)
-44. [SHOA-Nonlinear](shoa-nonlinear.md) — *ожидает DOI*
+44. [SHOA-Nonlinear](shoa-nonlinear.md) — [DOI](https://doi.org/10.5281/zenodo.21239958)
 45. [SHOA-Archon](shoa-archon.md) — [DOI](https://doi.org/10.5281/zenodo.21242080)
 46. [SHOA-Aegis](shoa-aegis.md) — [DOI](https://doi.org/10.5281/zenodo.21252330)
 47. [SHOA-Shield](shoa-shield.md) — [DOI](https://doi.org/10.5281/zenodo.21253059)
 48. [SHOA-Archont](shoa-archont.md) — [DOI](https://doi.org/10.5281/zenodo.21253800)
-49. [SHOA-Coat](shoa-coat.md) — *ожидает DOI*
+49. [SHOA-Coat](shoa-coat.md) — [DOI](https://doi.org/10.5281/zenodo.21309101)
 50. [SHOA-Shield v2](shoa-shield-v2.md) — [DOI](https://doi.org/10.5281/zenodo.21317261)
 51. [SHOA-Enamel](shoa-enamel.md) — [DOI](https://doi.org/10.5281/zenodo.21360311)
 52. [SHOA-Bone](shoa-bone.md) — [DOI](https://doi.org/10.5281/zenodo.21374016)
