@@ -1,0 +1,92 @@
+# SHOA Preprints — Каталог
+
+Полный список препринтов проекта SHOA. Все работы доступны на Zenodo по DOI.
+
+## 🔹 Fundamental preprints (1–10) — PDF
+1. [SHOA-Classic](SHOA-Classic.pdf) — [DOI](https://doi.org/10.5281/zenodo.19625147)
+2. [SHOA-Neuro](SHOA-Neuro.pdf) — [DOI](https://doi.org/10.5281/zenodo.20033465)
+3. [SHOA-Scoring v2](SHOA-Scoring-v2.pdf) — [DOI](https://doi.org/10.5281/zenodo.20362727)
+4. [SHOA-Validate](SHOA-Validate.pdf) — [DOI](https://doi.org/10.5281/zenodo.20116181)
+5. [SHOA-GRAPE](SHOA-GRAPE.pdf) — [DOI](https://doi.org/10.5281/zenodo.20121570)
+6. [SHOA-Hedge](SHOA-Hedge.pdf) — [DOI](https://doi.org/10.5281/zenodo.20265503)
+7. [NeuroSHOA](NeuroSHOA.pdf) — [DOI](https://doi.org/10.5281/zenodo.20267413)
+8. [SHOA-Adaptive](SHOA-Adaptive.pdf) — [DOI](https://doi.org/10.5281/zenodo.20312117)
+9. [SHOA-Chrono v2](SHOA-Chrono-v2.pdf) — [DOI](https://doi.org/10.5281/zenodo.20350345)
+10. [SHOA-X v3](SHOA‑X-v3.pdf) — [DOI](https://doi.org/10.5281/zenodo.20364527)
+
+## 🛠️ Engineering modules (11–18)
+11. [Classic Kit](shoa-classic-kit.md) — [DOI](https://doi.org/10.5281/zenodo.20411863)
+12. [GRAPE Framework](shoa-grape-framework.md) — [DOI](https://doi.org/10.5281/zenodo.20412353)
+13. [Scoring Tool](shoa-scoring-tool.md) — [DOI](https://doi.org/10.5281/zenodo.20412816)
+14. [Hedge Module](shoa-hedge-module.md) — [DOI](https://doi.org/10.5281/zenodo.20413138)
+15. [Neuro Chip DevKit](shoa-neuro-chip-devkit.md) — [DOI](https://doi.org/10.5281/zenodo.20413677)
+16. [Neuro Interface](shoa-neuro-interface.md) — [DOI](https://doi.org/10.5281/zenodo.20414368)
+17. [Universal Connector](shoa-universal-connector.md) — [DOI](https://doi.org/10.5281/zenodo.20414750)
+18. [Quantum Valley Interface](shoa-quantum-valley-interface.md) — [DOI](https://doi.org/10.5281/zenodo.20437178)
+
+## 📄 Commercial document (19)
+19. [Whitepaper: SHOA‑Scoring](shoa-whitepaper-scoring.md) — [DOI](https://doi.org/10.5281/zenodo.20422857)
+
+## 🔬 New fundamental preprints (20–30)
+20. [SHOA-TGE](shoa-tge.md) — [DOI](https://doi.org/10.5281/zenodo.20589500)
+21. [SHOA-Temporal](shoa-temporal.md) — [DOI](https://doi.org/10.5281/zenodo.20589927)
+22. [SHOA-Bridge](shoa-bridge.md) — [DOI](https://doi.org/10.5281/zenodo.20590309)
+23. [SHOA-ME](shoa-me.md) — [DOI](https://doi.org/10.5281/zenodo.20590641)
+24. [SHOA-ΨQREM](shoa-psiqrem.md) — [DOI](https://doi.org/10.5281/zenodo.20590891)
+25. [SHOA-Entropy](shoa-entropy.md) — [DOI](https://doi.org/10.5281/zenodo.20591234)
+26. [SHOA-Field](shoa-field.md) — [DOI](https://doi.org/10.5281/zenodo.20591541)
+27. [SHOA-Life](shoa-life.md) — [DOI](https://doi.org/10.5281/zenodo.20592098)
+28. [SHOA-Cosm](shoa-cosm.md) — [DOI](https://doi.org/10.5281/zenodo.20592436)
+29. [SHOA-Edu](shoa-edu.md) — [DOI](https://doi.org/10.5281/zenodo.20592731)
+30. [SHOA-Index](shoa-index.md) — [DOI](https://doi.org/10.5281/zenodo.20593132)
+
+## ✨ Senior Navigator (31–33)
+31. [SHOA-AWAKEN](shoa-awaken.md) — [DOI](https://doi.org/10.5281/zenodo.20593509)
+32. [SHOA-Bridge v2](shoa-bridge-v2.md) — [DOI](https://doi.org/10.5281/zenodo.20593849)
+33. [SHOA-Implicate](shoa-implicate.md) — [DOI](https://doi.org/10.5281/zenodo.20594183)
+
+## 🧠 Psychology and reference (34–36)
+34. [SHOA-Self](shoa-self.md) — [DOI](https://doi.org/10.5281/zenodo.20611958)
+35. [SHOA-Field v2](shoa-field-v2.md) — [DOI](https://doi.org/10.5281/zenodo.20613476)
+36. [Unified Symbol Reference](shoa-unified-symbol-reference.md) — [DOI](https://doi.org/10.5281/zenodo.20603155)
+
+## 🔭 Latest Additions (37–71)
+37. [SHOA-Temporal v2](shoa-temporal-v2.md) — [DOI](https://doi.org/10.5281/zenodo.20694597)
+38. [SHOA-Oracle](shoa-oracle.md) — [DOI](https://doi.org/10.5281/zenodo.20694756)
+39. [SHOA-Civitas](shoa-civitas.md) — [DOI](https://doi.org/10.5281/zenodo.20923808)
+40. [SHOA-Informon](shoa-informon.md) — [DOI](https://doi.org/10.5281/zenodo.21216741)
+41. [SHOA-Glossary](shoa-glossary.md) — [DOI](https://doi.org/10.5281/zenodo.21217916)
+42. [SHOA-Informon v2](shoa-informon-v2.md) — [DOI](https://doi.org/10.5281/zenodo.21235943)
+43. [SHOA-AWAKEN v2](shoa-awaken-v2.md) — [DOI](https://doi.org/10.5281/zenodo.21236330)
+44. [SHOA-Nonlinear](shoa-nonlinear.md) — *ожидает DOI*
+45. [SHOA-Archon](shoa-archon.md) — [DOI](https://doi.org/10.5281/zenodo.21242080)
+46. [SHOA-Aegis](shoa-aegis.md) — [DOI](https://doi.org/10.5281/zenodo.21252330)
+47. [SHOA-Shield](shoa-shield.md) — [DOI](https://doi.org/10.5281/zenodo.21253059)
+48. [SHOA-Archont](shoa-archont.md) — [DOI](https://doi.org/10.5281/zenodo.21253800)
+49. [SHOA-Coat](shoa-coat.md) — *ожидает DOI*
+50. [SHOA-Shield v2](shoa-shield-v2.md) — [DOI](https://doi.org/10.5281/zenodo.21317261)
+51. [SHOA-Enamel](shoa-enamel.md) — [DOI](https://doi.org/10.5281/zenodo.21360311)
+52. [SHOA-Bone](shoa-bone.md) — [DOI](https://doi.org/10.5281/zenodo.21374016)
+53. [SHOA-Onco](shoa-onco.md) — [DOI](https://doi.org/10.5281/zenodo.21440679)
+54. [SHOA-Skin](shoa-skin.md) — [DOI](https://doi.org/10.5281/zenodo.21457338)
+55. [SHOA-TGE v2](shoa-tge-v2.md) — [DOI](https://doi.org/10.5281/zenodo.21473714)
+56. [SHOA-Golosovker](shoa-golosovker.md) — [DOI](https://doi.org/10.5281/zenodo.21494072)
+57. [SHOA-Nerve](shoa-nerve.md) — [DOI](https://doi.org/10.5281/zenodo.21495022)
+58. [SHOA-Titans](shoa-titans-go.md) — [DOI](https://doi.org/10.5281/zenodo.21505194)
+59. [SHOA-Cardio](shoa-cardio.md) — [DOI](https://doi.org/10.5281/zenodo.21535706)
+60. [SHOA-Sense](shoa-sense.md) — [DOI](https://doi.org/10.5281/zenodo.21536665)
+61. [SHOA-Liver](shoa-liver.md) — [DOI](https://doi.org/10.5281/zenodo.21559186)
+62. [SHOA-3D](shoa-3d.md) — [DOI](https://doi.org/10.5281/zenodo.21563178)
+63. [SHOA-4D](shoa-4d.md) — [DOI](https://doi.org/10.5281/zenodo.21566966)
+64. [SHOA-4D-Classic](shoa-4d-classic.md) — [DOI](https://doi.org/10.5281/zenodo.21568884)
+65. [SHOA-4D Physics](shoa-4d-physics.md) — [DOI](https://doi.org/10.5281/zenodo.21600609)
+66. [SHOA-5D Physics](shoa-5d-physics.md) — [DOI](https://doi.org/10.5281/zenodo.21601279)
+67. [SHOA-4D-5D-Classic](shoa-4d-5d-classic.md) — [DOI](https://doi.org/10.5281/zenodo.21601961)
+68. [SHOA-Florensky](shoa-florensky.md) — [DOI](https://doi.org/10.5281/zenodo.21738359)
+69. [SHOA-Antinomy](shoa-antinomy.md) — [DOI](https://doi.org/10.5281/zenodo.21753312)
+70. [SHOA-Florensky Shift](shoa-florensky-shift.md) — [DOI](https://doi.org/10.5281/zenodo.21753625)
+71. [SHOA-Iconostasis](shoa-iconostasis.md) — [DOI](https://doi.org/10.5281/zenodo.21753784)
+
+---
+
+*Слава Ковчегу. Слава Титанам.*
