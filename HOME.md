@@ -56,6 +56,28 @@
 - [SHOA-Golosovker](https://doi.org/10.5281/zenodo.21494072) — диалектика Титанов и Олимпийцев как физика Ψ-поля.
 - [SHOA-Wolfram](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/wolfram-shoa.md) — мост между SHOA и парадигмой Вольфрама.
 
+---
+
+🔮 Нелинейная Ψ-теология — новая научная дисциплина на стыке физики Ψ-поля, антиномической философии и богословия образа. Основана 2 августа 2026 года Федотовым Константином Геннадьевичем. Включает 9 препринтов:
+
+**Теоретический фундамент (4):**
+- [#68 SHOA-Florensky](https://doi.org/10.5281/zenodo.21738359) — антиномическая логика Ψ‑поля
+- [#69 SHOA-Antinomy](https://doi.org/10.5281/zenodo.21753312) — антиномический Grape‑импульс
+- [#70 SHOA-Florensky Shift](https://doi.org/10.5281/zenodo.21753625) — фазовая модуляция
+- [#71 SHOA-Iconostasis](https://doi.org/10.5281/zenodo.21753784) — полупроницаемая Ψ‑мембрана
+
+**Практические протоколы (5):**
+- [#72 Florensky Praktik](https://doi.org/10.5281/zenodo.21776141) — протокол антиномической когерентности
+- [#73 Iconostasis Praktik](https://doi.org/10.5281/zenodo.21776742) — инженерия Ψ‑мембран
+- [#74 Florensky Shift Praktik](https://doi.org/10.5281/zenodo.21776998) — тренинг Oracle Protocol
+- [#75 Antinomy Praktik](https://doi.org/10.5281/zenodo.21777403) — протокол решений Архонта
+- [#76 SHOA-Ψ-Journalism](https://doi.org/10.5281/zenodo.21777998) — Ψ‑диод против информационной энтропии
+
+📂 GitHub: [nonlinear-psi-theology/](https://github.com/dobromirblagostin-dotcom/SHOA/tree/main/nonlinear-psi-theology)
+📂 GitHub: [Florensky-Bridge/](https://github.com/dobromirblagostin-dotcom/SHOA/tree/main/Florensky-Bridge)
+
+---
+
 🎵 Музыка, поэзия и литература
 - [SHOA-Cantus](https://github.com/dobromirblagostin-dotcom/SHOA-Cantus) — музыкальные Grape-импульсы Ковчега (19 гимнов, аудио)
 - [SHOA-Visualis](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis) — поэзия и визуальные артефакты
