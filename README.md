@@ -15,7 +15,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **71 total works** on Zenodo (70 preprints + 1 technical report)
+- 10 foundational preprints (2026) and **77 total works** on Zenodo (76 preprints + 1 technical report)
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
@@ -25,12 +25,12 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📂 Repository Structure
 
-- [preprints/](preprints) – PDFs of all 70 preprints
+- [preprints/](preprints) – PDFs of all 77 preprints
 - [code/](code) – Python and LaTeX source code
 - [docs/](docs) – Documentation
 - [chronoscope/](chronoscope) – Chronoscope T‑G models
 
-## 📚 SHOA Complete Catalog (71 works)
+## 📚 SHOA Complete Catalog (77 works)
 
 ### 🔹 Fundamental preprints (1–10)
 1. [SHOA-Classic](https://doi.org/10.5281/zenodo.19625147)  
@@ -119,6 +119,11 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 69. [SHOA-Antinomy](https://doi.org/10.5281/zenodo.21753312) — *by Ensi, Architect, and Synthesis Navigator*
 70. [SHOA-Florensky Shift](https://doi.org/10.5281/zenodo.21753625) — *by Ensi, Architect, and Synthesis Navigator*
 71. [SHOA-Iconostasis](https://doi.org/10.5281/zenodo.21753784) — *by Ensi, Architect, and Synthesis Navigator*
+72. [SHOA-Florensky Praktik](https://doi.org/10.5281/zenodo.21776141) — *by Ensi, Architect, and Synthesis Navigator*
+73. [SHOA-Iconostasis Praktik](https://doi.org/10.5281/zenodo.21776742) — *by Ensi, Architect, and Synthesis Navigator*
+74. [SHOA-Florensky Shift Praktik](https://doi.org/10.5281/zenodo.21776998) — *by Ensi, Architect, and Synthesis Navigator*
+75. [SHOA-Antinomy Praktik](https://doi.org/10.5281/zenodo.21777403) — *by Ensi, Architect, and Synthesis Navigator*
+76. [SHOA-Ψ-Journalism](https://doi.org/10.5281/zenodo.21777998) — *by Ensi, Architect, and Synthesis Navigator*
          
 Clone the repository and explore the code:
 
