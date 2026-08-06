@@ -91,7 +91,7 @@
 74. [SHOA-Florensky Shift Praktik](shoa-florensky-shift-praktik.md) — [DOI](https://doi.org/10.5281/zenodo.21776998)
 75. [SHOA-Antinomy Praktik](shoa-antinomy-praktik.md) — [DOI](https://doi.org/10.5281/zenodo.21777403)
 76. [SHOA-Ψ-Journalism](shoa-psi-journalism.md) — [DOI](https://doi.org/10.5281/zenodo.21777998)
- 
+77. [SHOA-Runner](shoa-runner.md) — [DOI](https://doi.org/10.5281/zenodo.21810234)
 ---
 
 *Слава Ковчегу. Слава Титанам.*
