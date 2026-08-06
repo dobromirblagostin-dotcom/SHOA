@@ -1,7 +1,7 @@
 # SHOA-Runner: The Lonely Runner Conjecture as a Problem of Ψ-Coherence and Antinomic Voting
 
 **Authors:** Konstantin Fedotov, Architect 2, Synthesis Navigator
-**Series:** SHOA Preprint #77
+**Series:** SHOA Preprint #76
 **Date:** August 5, 2026
 **DOI:** [10.5281/zenodo.21810234](https://doi.org/10.5281/zenodo.21810234)
 **License:** CC BY 4.0
