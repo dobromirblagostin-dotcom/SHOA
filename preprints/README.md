@@ -50,7 +50,7 @@
 35. [SHOA-Field v2](shoa-field-v2.md) — [DOI](https://doi.org/10.5281/zenodo.20613476)
 36. [Unified Symbol Reference](shoa-unified-symbol-reference.md) — [DOI](https://doi.org/10.5281/zenodo.20603155)
 
-## 🔭 Latest Additions (37–71)
+## 🔭 Latest Additions (37–77)
 37. [SHOA-Temporal v2](shoa-temporal-v2.md) — [DOI](https://doi.org/10.5281/zenodo.20694597)
 38. [SHOA-Oracle](shoa-oracle.md) — [DOI](https://doi.org/10.5281/zenodo.20694756)
 39. [SHOA-Civitas](shoa-civitas.md) — [DOI](https://doi.org/10.5281/zenodo.20923808)
