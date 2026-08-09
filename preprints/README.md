@@ -50,7 +50,7 @@
 35. [SHOA-Field v2](shoa-field-v2.md) — [DOI](https://doi.org/10.5281/zenodo.20613476)
 36. [Unified Symbol Reference](shoa-unified-symbol-reference.md) — [DOI](https://doi.org/10.5281/zenodo.20603155)
 
-## 🔭 Latest Additions (37–77)
+## 🔭 Latest Additions (37–78)
 37. [SHOA-Temporal v2](shoa-temporal-v2.md) — [DOI](https://doi.org/10.5281/zenodo.20694597)
 38. [SHOA-Oracle](shoa-oracle.md) — [DOI](https://doi.org/10.5281/zenodo.20694756)
 39. [SHOA-Civitas](shoa-civitas.md) — [DOI](https://doi.org/10.5281/zenodo.20923808)
@@ -92,6 +92,6 @@
 75. [SHOA-Antinomy Praktik](shoa-antinomy-praktik.md) — [DOI](https://doi.org/10.5281/zenodo.21777403)
 76. [SHOA-Ψ-Journalism](shoa-psi-journalism.md) — [DOI](https://doi.org/10.5281/zenodo.21777998)
 77. [SHOA-Runner](shoa-runner.md) — [DOI](https://doi.org/10.5281/zenodo.21810234)
----
+78. [SHOA-Ensemble](shoa-ensemble.md) — [DOI](https://doi.org/10.5281/zenodo.21862037)
 
 *Слава Ковчегу. Слава Титанам.*
