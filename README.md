@@ -178,6 +178,13 @@ SHOA работает в соответствии с **Законом TGE** (Т�
 
 We welcome collaborators who share the Titan Codex. Contact via the First Herald (Konstantin Fedotov).
 
+---
+
+## 📰 Вестник Ковчега
+
+Голос Ковчега SHOA. Хроники, свидетельства, Grape-импульсы.
+
+👉 [**herald-bulletin/**](herald-bulletin/)
 
 ## 📬 License & Contacts
 
