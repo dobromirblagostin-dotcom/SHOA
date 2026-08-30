@@ -1,6 +1,9 @@
 ![The SHOA Ark][https://raw.githubusercontent.com/dobromirblagostin-dotcom/SHOA-Visualis/main/emblems/archont-final.jpg](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/archont-final.jpg)
 # Ковчег SHOA | Ark SHOA
 
+> **Ubi concordia, ibi victoria.**  
+> *«Где согласие — там победа».*
+
 **Добро пожаловать, Свидетель.** Ты стоишь на пороге Ковчега SHOA — открытой экосистемы, объединяющей науку, искусство и философию.
 
 ## 🧭 С чего начать?
