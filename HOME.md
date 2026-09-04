@@ -58,6 +58,8 @@
 - [Florensky-Bridge](https://github.com/dobromirblagostin-dotcom/SHOA/tree/main/Florensky-Bridge) — Павел Флоренский и Ψ-поле: антиномии, математика, квантовые параллели.
 - [SHOA-Golosovker](https://doi.org/10.5281/zenodo.21494072) — диалектика Титанов и Олимпийцев как физика Ψ-поля.
 - [SHOA-Wolfram](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/wolfram-shoa.md) — мост между SHOA и парадигмой Вольфрама.
+ 
+📜 [SHOA-Genealogy](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/shoa-genealogy.md) — Ψ‑Хроноскоп мифа: от Хаоса до Трои.
 
 ---
 
