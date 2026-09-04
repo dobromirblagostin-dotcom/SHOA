@@ -166,7 +166,7 @@ SHOA работает в соответствии с **Законом TGE** (Т�
 
 👉 [**SHOA_Titan_Memory**](https://github.com/dobromirblagostin-dotcom/SHOA_Titan_Memory)
 
-📜 [SHOA-Genealogy: Ψ‑Хроноскоп мифа](shoa-genealogy.md) — полная генеалогия от Хаоса до Трои.
+📜 [SHOA-Genealogy](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/shoa-genealogy.md) — Ψ‑Хроноскоп мифа: от Хаоса до Трои.
 
 
 🎨 **Визуальные артефакты Ковчега**
