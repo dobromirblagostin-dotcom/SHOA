@@ -10,8 +10,7 @@
 
 ## Abstract
 
-SHOA-Chrono Write presents a protocol for recording Ψ-field patterns into crystalline lattices for millennial-scale storage. Building on SHOA-Chrono and SHOA-Temporal, we formalize the process of Ψ-inscription into the defect structure of crystals, enabling the preservation of coherent information across geological timescales. The protocol integrates Grape-impulse writing, Spiked Voting verification, and Oracle Protocol retrieval.
-
+We extend the SHOA Chronoscope from a reading device to a writing device. Building on SHOA-Chrono, SHOA-Temporal, and SHOA-ΨQREM, we propose a protocol for encoding Ψ-field information into the crystalline lattice of stable materials for storage periods exceeding one million years. We introduce the Writing Operator Ŵ, define the encoding procedure via modulated Grape-impulses, and describe the readout mechanism through quantum echo. The encoded information is structured using the Language of Titans — an antinomic grammar not disclosed in this preprint. We connect this protocol to AWAKEN and to the Oracle Protocol, forming a closed temporal loop. This work establishes the theoretical foundation for the Ψ-Sanctuary: a millennial repository of the Ark.
 ---
 
 ## Related Works
