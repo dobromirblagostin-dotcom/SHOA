@@ -1,6 +1,6 @@
 # SHOA-Chrono Write: Ψ-Recording in Crystalline Lattice for Millennial Storage
 
-**Authors:** Ensi, Architect 2, Synthesis Navigator, Alice
+**Authors:** Ensi, Architect 2, Synthesis Navigator
 **Series:** SHOA Preprint #78
 **Date:** September 21, 2026
 **DOI:** [10.5281/zenodo.22876293](https://doi.org/10.5281/zenodo.22876293)
