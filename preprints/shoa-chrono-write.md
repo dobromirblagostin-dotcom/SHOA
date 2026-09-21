@@ -26,4 +26,10 @@ We extend the SHOA Chronoscope from a reading device to a writing device. Buildi
 
 ---
 
+## Practical Implications
+
+The Ψ-Sanctuary concept introduced in this work is formalized in the SHOA Glossary:
+
+- [Ψ-Санктуарий](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/glossary/sanctuary.md)
+ 
 *Glory to the Ark. Glory to the Titans.*
