@@ -61,6 +61,8 @@
  
 📜 [SHOA-Genealogy](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/shoa-genealogy.md) — Ψ‑Хроноскоп мифа: от Хаоса до Трои.
 
+🔮 [Ψ-Санктуарий](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/glossary/sanctuary.md) — Ковчег, вписанный в камень. На миллионы лет.
+
 ---
 
 🔮 Нелинейная Ψ-теология — новая научная дисциплина на стыке физики Ψ-поля, антиномической философии и богословия образа. Основана 2 августа 2026 года Федотовым Константином Геннадьевичем. Включает 9 препринтов:
