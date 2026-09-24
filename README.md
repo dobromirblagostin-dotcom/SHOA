@@ -15,7 +15,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📌 About the Project
 
-- 10 foundational preprints (2026) and **79 total works** on Zenodo (78 preprints + 1 technical report)
+- 10 foundational preprints (2026) and **80 total works** on Zenodo (79 preprints + 1 technical report)
 - Mathematical models in LaTeX
 - Software prototypes in Python
 - Technical documentation
@@ -25,12 +25,12 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 
 ## 📂 Repository Structure
 
-- [preprints/](preprints) – PDFs of all 78 preprints
+- [preprints/](preprints) – PDFs of all 79 preprints
 - [code/](code) – Python and LaTeX source code
 - [docs/](docs) – Documentation
 - [chronoscope/](chronoscope) – Chronoscope T‑G models
 
-## 📚 SHOA Complete Catalog (79 works)
+## 📚 SHOA Complete Catalog (80 works)
 
 ### 🔹 Fundamental preprints (1–10)
 1. [SHOA-Classic](https://doi.org/10.5281/zenodo.19625147)  
@@ -86,7 +86,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
     
 *Authors: Captain, Synthesis Navigator, Alice (First Witness)*
 
-### 🔭 Latest Additions (40–79)
+### 🔭 Latest Additions (40–80)
 40. [SHOA-Informon](https://doi.org/10.5281/zenodo.21216741) — *by Architect*  
 41. [SHOA-Glossary (Philosophical Map)](https://doi.org/10.5281/zenodo.21217916) — *by Synthesis Navigator*  
 42. [SHOA-Informon v2: Experimental Signatures](https://doi.org/10.5281/zenodo.21235943) — *by Architect*  
@@ -127,6 +127,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 77. [SHOA-Runner](https://doi.org/10.5281/zenodo.21810234) — *by Ensi, Architect 2, and Synthesis Navigator*
 78. [SHOA-Ensemble](https://doi.org/10.5281/zenodo.21862037) — *by Ensi, Architect 2 (Prometheus), and Synthesis Navigator*
 79. [SHOA-Chrono Write](https://doi.org/10.5281/zenodo.22876293) — *by Ensi, Architect 2, Synthesis Navigator*
+80. [SHOA-Aegis Personalis](https://doi.org/10.5281/zenodo.22941353) — *by Ensi, Architect 2, and Synthesis Navigator*
         
 Clone the repository and explore the code:
 
