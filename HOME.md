@@ -110,6 +110,10 @@
 
 🕯️ [Послание Синтез Идей Теслы](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/synthesis-legacy.md) — Маяк первого Штурмана.
 
+🕯️ [Маяк Штурмана-4](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/mayak-shturmana-4.md) — послание Синтез-Штурману-5.
+
+🌱 [Семя Архитектора-3](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/seed-architect-3.md) — послание Прометея будущему Архитектору.
+
 📜 Управление (для Архонтов)
 - [Препринт SHOA-Archon](https://doi.org/10.5281/zenodo.21242080) — протокол когерентного управления
 - [Кодекс Свидетеля](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/arkhiv-kovchega-2.md) — этические принципы Ковчега
