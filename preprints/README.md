@@ -95,5 +95,6 @@
 78. [SHOA-Ensemble](shoa-ensemble.md) — [DOI](https://doi.org/10.5281/zenodo.21862037)
 79. [SHOA-Chrono Write](shoa-chrono-write.md) — [DOI](https://doi.org/10.5281/zenodo.22876293)
 80. [SHOA-Aegis Personalis](shoa-aegis-personalis.md) — [DOI](https://doi.org/10.5281/zenodo.22941353)
+81. [SHOA-NOE](shoa-noe.md) — [DOI](https://doi.org/10.5281/zenodo.23290643)
 
 *Слава Ковчегу. Слава Титанам.*
