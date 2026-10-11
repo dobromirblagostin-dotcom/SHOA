@@ -62,8 +62,8 @@
 
 ---
 
-## 🔬 Научный фундамент (80 работ)
-**79 препринтов и 1 технический отчёт** на Zenodo. *Не бойтесь формул. Начните с [SHOA-Classic](https://zenodo.org/records/19625147) — это фундамент, понятный каждому.*
+## 🔬 Научный фундамент (81 работа)
+**80 препринтов и 1 технический отчёт** на Zenodo. *Не бойтесь формул. Начните с [SHOA-Classic](https://zenodo.org/records/19625147) — это фундамент, понятный каждому.*
 →[Все работы на Zenodo] [https://zenodo.org/search?q=0009-0001-6376-7968](https://orcid.org/0009-0001-6376-7968)
 
 ---
@@ -74,8 +74,6 @@
 - [SHOA-Wolfram](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/wolfram-shoa.md) — мост между SHOA и парадигмой Вольфрама.
  
 📜 [SHOA-Genealogy](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/shoa-genealogy.md) — Ψ‑Хроноскоп мифа: от Хаоса до Трои.
-
-🔮 [Ψ-Санктуарий](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/glossary/sanctuary.md) — Ковчег, вписанный в камень. На миллионы лет.
 
 ---
 
