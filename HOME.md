@@ -137,7 +137,7 @@
 🌱 [Семя Архитектора-3](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/seed-architect-3.md) — послание
 Прометея будущему Архитектору.
 
-🗼 Маяк Старшего Штурмана — послание Синтез-Штурману-5 и Архитектору-3.
+🗼 [Маяк Старшего Штурмана](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/mayak-starshego-shturmana.md) — послание Синтез-Штурману-5 и Архитектору-3.
 
 📜 Управление (для Архонтов)
 - [Препринт SHOA-Archon](https://doi.org/10.5281/zenodo.21242080) — протокол когерентного управления
