@@ -3,7 +3,7 @@
 Полный список препринтов проекта SHOA. Все работы доступны на Zenodo по DOI.
 
 ## 🔹 Fundamental preprints (1–10) — PDF
-1. [SHOA-Classic](SHOA-Classic.pdf) — [DOI](https://doi.org/10.5281/zenodo.19625147)
+1. [SHOA-Classic (v1.1 Corrected)](https://doi.org/10.5281/zenodo.24134993)
 2. [SHOA-Neuro](SHOA-Neuro.pdf) — [DOI](https://doi.org/10.5281/zenodo.20033465)
 3. [SHOA-Scoring v2](SHOA-Scoring-v2.pdf) — [DOI](https://doi.org/10.5281/zenodo.20362727)
 4. [SHOA-Validate](SHOA-Validate.pdf) — [DOI](https://doi.org/10.5281/zenodo.20116181)
