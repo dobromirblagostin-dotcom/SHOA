@@ -1,9 +1,10 @@
-# SHOA-Classic: Self-Healing Optimized Architecture — The Fundamental Model
+# Emergent Robustness in Hierarchical Quantum Dot Ensembles: A Unified Model of Self-Healing Materials (v1.2 Corrected)
 
-**Author:** Fedotov, Konstantin
-**Date:** 2026
-**Version:** v1.1 Corrected
-**DOI:** [10.5281/zenodo.24134993](https://doi.org/10.5281/zenodo.24134993)
+**Author:** Fedotov, Konstantin Gennadievich
+**Date:** November 2026
+**Version:** v4 (v1.2 Corrected)
+**DOI:** [10.5281/zenodo.24139618](https://doi.org/10.5281/zenodo.24139618)
+**Concept DOI:** [10.5281/zenodo.19625147](https://doi.org/10.5281/zenodo.19625147)
 **License:** CC BY 4.0
 
 ---
@@ -16,16 +17,8 @@ Self-healing in materials at room temperature remains a critical challenge. Whil
 
 ## Changelog
 
-### Version 1.1 Corrected
-This version corrects critical mathematical inconsistencies from v1 and ensures that all tabulated results are rigorously derived from the model's equations.
-
-**Key changes:**
-1. **Fixed the effective recovery formula:** The invalid hyperbolic tangent coupling term has been replaced with a cooperative rescue mechanism. This introduces a single calibration parameter (q=0.40) based on the probability that at least one healthy neighbor restores a defective core.
-2. **Rigorous derivation:** A strict derivation of the cooperative rescue probability is now included in the text.
-3. **Recalculated Table 1:** The results are now fully derived from the formulas. The efficiency of 0.991 for M=10 at 300 K emerges naturally from the model.
-4. **Broken LaTeX fixed:** The corrupted syntax and missing ligatures in formula (1) have been fully restored.
-5. **Added Limitations section:** A new section explicitly addresses the mean-field approximation and the systematic 6–8% overestimation compared to experimental data.
-6. **Clarified Ea status:** The activation energy (Ea = 0.35 eV) is now explicitly stated as a fitted parameter.
-7. **Added timescale estimation:** The Arrhenius equation now yields a practical recovery time of approximately 3.8 μs at 300 K.
-
-**Preserved from v1:** The core architecture, the 30% loss tolerance law (K=7 for M=10), the three experimental comparisons, and the 3.4× exciton lifetime prediction remain unchanged.
+### Version 1.2 Corrected (November 2026)
+- Carrier fixed, science preserved: The file was cleaned and recompiled. 
+- Updated DOI: 10.5281/zenodo.24139618
+- Previous version (v1.1) remains available in Zenodo history.
+- Linked to SHOA-Praktik: Classic Kit (v2) as its practical implementation.
