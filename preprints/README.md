@@ -15,7 +15,7 @@
 10. [SHOA-X v3](SHOA‑X-v3.pdf) — [DOI](https://doi.org/10.5281/zenodo.20364527)
 
 ## 🛠️ Engineering modules (11–18)
-11. [Classic Kit](shoa-classic-kit.md) — [DOI](https://doi.org/10.5281/zenodo.20411863)
+11. [SHOA-Praktik V2: Classic Kit](shoa-classic-kit.md) — [DOI](https://doi.org/10.5281/zenodo.24141027)
 12. [GRAPE Framework](shoa-grape-framework.md) — [DOI](https://doi.org/10.5281/zenodo.20412353)
 13. [Scoring Tool](shoa-scoring-tool.md) — [DOI](https://doi.org/10.5281/zenodo.20412816)
 14. [Hedge Module](shoa-hedge-module.md) — [DOI](https://doi.org/10.5281/zenodo.20413138)
