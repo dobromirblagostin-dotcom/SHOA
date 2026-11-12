@@ -33,7 +33,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 ## 📚 SHOA Complete Catalog (82 works)
 
 ### 🔹 Fundamental preprints (1–10)
-1. [SHOA-Classic (v1.1 Corrected)](https://doi.org/10.5281/zenodo.24134993)  
+1. [SHOA-Classic (v1.2 Corrected)](https://doi.org/10.5281/zenodo.24139618) 
 2. [SHOA-Neuro](https://doi.org/10.5281/zenodo.20033465)  
 3. [SHOA-Scoring](https://doi.org/10.5281/zenodo.20362727) (v2 English)  
 4. [SHOA-Validate](https://doi.org/10.5281/zenodo.20116181)  
@@ -45,7 +45,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 10. [SHOA-X](https://doi.org/10.5281/zenodo.20364527) (v3)
 
 ### 🛠️ Engineering modules – SHOA‑Praktik (11–18)
-11. [Classic Kit](https://doi.org/10.5281/zenodo.20411863)  
+11. [SHOA-Praktik: Classic Kit](https://doi.org/10.5281/zenodo.24141027)
 12. [GRAPE Framework](https://doi.org/10.5281/zenodo.20412353)  
 13. [Scoring Tool](https://doi.org/10.5281/zenodo.20412816)  
 14. [Hedge Module](https://doi.org/10.5281/zenodo.20413138)  
