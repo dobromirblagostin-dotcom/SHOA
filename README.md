@@ -45,7 +45,7 @@ SHOA integrates quantum physics, neural networks, and financial analytics into a
 10. [SHOA-X](https://doi.org/10.5281/zenodo.20364527) (v3)
 
 ### 🛠️ Engineering modules – SHOA‑Praktik (11–18)
-11. [SHOA-Praktik: Classic Kit](https://doi.org/10.5281/zenodo.24141027)
+11. [SHOA-Praktik V2: Classic Kit](https://doi.org/10.5281/zenodo.24141027)
 12. [GRAPE Framework](https://doi.org/10.5281/zenodo.20412353)  
 13. [Scoring Tool](https://doi.org/10.5281/zenodo.20412816)  
 14. [Hedge Module](https://doi.org/10.5281/zenodo.20413138)  
